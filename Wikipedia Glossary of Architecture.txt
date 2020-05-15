@@ -1,4 +1,3 @@
-<h2><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_architecture&amp;action=edit&amp;section=1" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="abacus" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Abacus_(architecture)" title="Abacus (architecture)">Abacus</a></dfn></dt>
 <dd class="glossary">A flat slab forming the uppermost member or division of the capital of a column.</dd>
@@ -56,7 +55,6 @@
 <dt class="glossary" id="attic" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Attic" title="Attic">Attic</a></dfn></dt>
 <dd class="glossary">Small top story within a roof above the uppermost ceiling. The story above the main <a href="/wiki/Entablature" title="Entablature">entablature</a> of a classical <a href="/wiki/Fa%C3%A7ade" class="mw-redirect" title="Façade">façade</a>.</dd>
 </dl>
-<h2><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_architecture&amp;action=edit&amp;section=2" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="bahut" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/w/index.php?title=Bahut_(architecture)&amp;action=edit&amp;redlink=1" class="new" title="Bahut (architecture) (page does not exist)">Bahut</a></dfn></dt>
 <dd class="glossary">A small parapet or attic wall bearing the weight of the roof of a cathedral or church.</dd>
@@ -141,7 +139,6 @@
 <dt class="glossary" id="buttress" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Buttress" title="Buttress">Buttress</a></dfn></dt>
 <dd class="glossary">Vertical member projecting from a wall to stabilize it or to resist the lateral thrust of an arch, roof, or vault. A <a href="/wiki/Flying_buttress" title="Flying buttress">flying buttress</a> transmits the thrust to a heavy abutment by means of an <a href="/wiki/Arch" title="Arch">arch</a> or half-arch.</dd>
 </dl>
-<h2><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_architecture&amp;action=edit&amp;section=3" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="cancellus" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Cancellus" class="mw-redirect" title="Cancellus">Cancellus</a></dfn></dt>
 <dd class="glossary">(plural: Cancelli) Barriers which correspond to the modern balustrade or railing, especially the screen dividing the body of a church from the part occupied by the ministers hence chancel. The Romans employed cancelli to partition off portions of the courts of law.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></dd>
@@ -249,7 +246,6 @@
 <dt class="glossary" id="cyrto-style" style="margin-top: 0.4em;"><dfn class="glossary">Cyrto-style</dfn></dt>
 <dd class="glossary">A circular projecting portico with columns.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup></dd>
 </dl>
-<h2><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_architecture&amp;action=edit&amp;section=4" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="denticulation_(architecture)" style="margin-top: 0.4em;"><dfn class="glossary">Denticulation (architecture)</dfn></dt>
 <dd class="glossary">Finely toothed or notched; having <a href="/wiki/Dentil" title="Dentil">dentils</a> (a dentil is one of a series of small rectangular blocks projecting from a molding or beneath a cornice).
@@ -295,7 +291,6 @@
 <dt class="glossary" id="dromos" style="margin-top: 0.4em;"><dfn class="glossary">Dromos</dfn></dt>
 <dd class="glossary">Entrance passage or avenue leading to a building, tomb or passageway. Those leading to <a href="/wiki/Beehive_tomb" title="Beehive tomb">beehive tombs</a> are enclosed between stone walls and sometimes in-filled between successive uses of the tomb.<sup id="cite_ref-FOOTNOTEDeurer2011_28-0" class="reference"><a href="#cite_note-FOOTNOTEDeurer2011-28">&#91;28&#93;</a></sup><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup> In ancient Egypt the dromos was a straight, paved avenue flanked by sphinxes.<sup id="cite_ref-FOOTNOTEDeurer2011_28-1" class="reference"><a href="#cite_note-FOOTNOTEDeurer2011-28">&#91;28&#93;</a></sup><sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup></dd>
 </dl>
-<h2><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_architecture&amp;action=edit&amp;section=5" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Eave_return" title="Eave return">Eave return</a></dfn></dt>
 <dd class="glossary">An element of Classical Revival architecture in American domestic architecture.</dd>
@@ -318,7 +313,6 @@
 <dt class="glossary" id="eustyle" style="margin-top: 0.4em;"><dfn class="glossary">Eustyle</dfn></dt>
 <dd class="glossary"><a href="/wiki/Intercolumniation" title="Intercolumniation">intercolumniation</a> defined by <a href="/wiki/Vitruvius" title="Vitruvius">Vitruvius</a> as being of the best proportion, i.e. two and a quarter diameters.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup></dd>
 </dl>
-<h2><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_architecture&amp;action=edit&amp;section=6" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="facade" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Facade" title="Facade">Facade</a></dfn></dt>
 <dd class="glossary">An exterior side of a building, usually the front.</dd>
@@ -348,7 +342,6 @@
 <dt class="glossary" id="formeret" style="margin-top: 0.4em;"><dfn class="glossary">Formeret</dfn></dt>
 <dd class="glossary">French term for the wall-rib carrying the web or filling-in of a vault.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup></dd>
 </dl>
-<h2><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_architecture&amp;action=edit&amp;section=7" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="gable" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Gable" title="Gable">Gable</a></dfn></dt>
 <dd class="glossary">A triangular portion of an end wall between the edges of a sloping roof.</dd>
@@ -386,7 +379,6 @@
 <dt class="glossary" id="grotto" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Grotto" title="Grotto">Grotto</a></dfn></dt>
 <dd class="glossary">An exterior submerged room that is decorated with landscaping or art in which has no exterior exit or entrance. One enters and exits only through the building.</dd>
 
-<h2><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_architecture&amp;action=edit&amp;section=8" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="hip_roof" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Hip_roof" title="Hip roof">Hip roof</a></dfn></dt>
 <dd class="glossary">A type of roof where all sides slope downwards from the ridge to the eaves.</dd>
@@ -394,7 +386,6 @@
 <dt class="glossary" id="hyphen" style="margin-top: 0.4em;"><dfn class="glossary">Hyphen</dfn></dt>
 <dd class="glossary">Possibly from an older term "heifunon"<sup id="cite_ref-name_42-0" class="reference"><a href="#cite_note-name-42">&#91;42&#93;</a></sup> – a structural section connecting the main portion of a building with its projecting "dependencies" or wings.</dd>
 </dl>
-<h2><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_architecture&amp;action=edit&amp;section=9" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="imperial_roof_decoration" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Imperial_roof_decoration" title="Imperial roof decoration">Imperial roof decoration</a></dfn></dt>
 <dd class="glossary">A row of small figures along the unions of the roofs of Chinese official buildings.</dd>
@@ -405,7 +396,6 @@
 <dt class="glossary" id="ionic_order" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ionic_order" title="Ionic order">Ionic order</a></dfn></dt>
 <dd class="glossary">One of the three <a href="/wiki/Classical_order" title="Classical order">orders</a> or organisational systems of Ancient Greek or classical architecture characterised by columns which stood on the flat pavement of a temple with a base, their vertical shafts fluted with parallel concave grooves topped by a <a href="/wiki/Capital_(architecture)" title="Capital (architecture)">capital</a> with <a href="/wiki/Volute" title="Volute">volutes</a>, that flared from the column to meet a rectangular <a href="/wiki/Abacus_(architecture)" title="Abacus (architecture)">abacus</a> with carved <a href="/wiki/Ovolo" title="Ovolo">ovolo</a> moulding, at the intersection with the horizontal beam that they carried.</dd>
 </dl>
-<h2><span class="mw-headline" id="J">J</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_architecture&amp;action=edit&amp;section=10" title="Edit section: J">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="jagati" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Jagati_(temple)" title="Jagati (temple)">Jagati</a></dfn></dt>
 <dd class="glossary">A raised surface, platform or terrace upon which an <a href="/wiki/India" title="India">Indian</a> temple is placed.</dd>
@@ -413,12 +403,10 @@
 <dt class="glossary" id="jettying" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Jettying" title="Jettying">Jettying</a></dfn></dt>
 <dd class="glossary">A building technique used in medieval timber frame buildings in which an upper floor projects beyond the dimensions of the floor below.</dd>
 </dl>
-<h2><span class="mw-headline" id="K">K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_architecture&amp;action=edit&amp;section=11" title="Edit section: K">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="keystone" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Keystone_(architecture)" title="Keystone (architecture)">Keystone</a></dfn></dt>
 <dd class="glossary">The architectural piece at the crown of a vault or arch and marks its apex, locking the other pieces into position.</dd>
 </dl>
-<h2><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_architecture&amp;action=edit&amp;section=12" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="lacunar" style="margin-top: 0.4em;"><dfn class="glossary">Lacunar</dfn></dt>
 <dd class="glossary">Latin name in architecture for paneled or <a href="/wiki/Coffered_ceiling" class="mw-redirect" title="Coffered ceiling">coffered ceiling</a>, <a href="/wiki/Soffit" title="Soffit">soffit</a>, or <a href="/wiki/Vault_(architecture)" title="Vault (architecture)">vault</a> adorned with a pattern of recessed <a href="/wiki/Panel_painting" title="Panel painting">panels</a>.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">&#91;44&#93;</a></sup></dd>
@@ -444,7 +432,6 @@
 <dt class="glossary" id="lunette" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Lunette" title="Lunette">Lunette</a></dfn></dt>
 <dd class="glossary">A half-moon shaped space, either masonry or void.</dd>
 </dl>
-<h2><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_architecture&amp;action=edit&amp;section=13" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="mandapa" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Mandapa" title="Mandapa">Mandapa</a></dfn></dt>
 <dd class="glossary">In <a href="/wiki/Indian_architecture" class="mw-redirect" title="Indian architecture">Indian architecture</a>, a pillared outdoor hall or <a href="/wiki/Pavilion" title="Pavilion">pavilion</a> for public rituals.</dd>
@@ -488,7 +475,6 @@
 <dt class="glossary" id="mutule" style="margin-top: 0.4em;"><dfn class="glossary">Mutule <span id="Mutule"></span></dfn></dt>
 <dd class="glossary">Rectangular block under the <a href="/wiki/Soffit" title="Soffit">soffit</a> of the cornice of the Greek Doric temple, which is studded with <a href="/wiki/Guttae" class="mw-redirect" title="Guttae">guttae</a>. It is supposed to represent the piece of timber through which the wooden pegs were driven in order to hold the rafter in position, and it follows the <a href="/wiki/Cornice" title="Cornice">sloping rake</a> of the roof. In the Roman Doric order the mutule was horizontal, with sometimes a crowning fillet, so that it virtually fulfilled the purpose of the modillion in the Corinthian cornice.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">&#91;47&#93;</a></sup></dd>
 </dl>
-<h2><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_architecture&amp;action=edit&amp;section=14" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="narthex" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Narthex" title="Narthex">Narthex</a></dfn></dt>
 <dd class="glossary">An enclosed passage between the main entrance and the <a href="/wiki/Nave" title="Nave">nave</a> of a church.</dd>
@@ -502,7 +488,6 @@
 <dt class="glossary" id="niche" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Niche_(architecture)" title="Niche (architecture)">Niche</a></dfn></dt>
 <dd class="glossary">In classical architecture is an <a href="/wiki/Exedra" title="Exedra">exedra</a> or an <a href="/wiki/Apse" title="Apse">apse</a> that has been reduced in size, retaining the half-dome heading usual for an apse.</dd>
 </dl>
-<h2><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_architecture&amp;action=edit&amp;section=15" title="Edit section: O">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="oculus" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Oculus" title="Oculus">Oculus</a></dfn></dt>
 <dd class="glossary">A circular opening in the center of a dome such as the one in the roof of the Pantheon in Rome or in a wall.</dd>
@@ -522,7 +507,6 @@
 <dt class="glossary" id="orthostyle" style="margin-top: 0.4em;"><dfn class="glossary">Orthostyle</dfn></dt>
 <dd class="glossary">(<a href="/wiki/Greek_language" title="Greek language">Greek</a>: ὃρθος, straight, and στῦλος, a column) – a range of columns placed in a straight row, as for instance those of the portico or flanks of a classic temple.<sup id="cite_ref-50" class="reference"><a href="#cite_note-50">&#91;50&#93;</a></sup></dd>
 </dl>
-<h2><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_architecture&amp;action=edit&amp;section=16" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Screen_MoorhayesChapel_CullomptonChurch_Devon.PNG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Screen_MoorhayesChapel_CullomptonChurch_Devon.PNG/220px-Screen_MoorhayesChapel_CullomptonChurch_Devon.PNG" decoding="async" width="220" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Screen_MoorhayesChapel_CullomptonChurch_Devon.PNG/330px-Screen_MoorhayesChapel_CullomptonChurch_Devon.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Screen_MoorhayesChapel_CullomptonChurch_Devon.PNG/440px-Screen_MoorhayesChapel_CullomptonChurch_Devon.PNG 2x" data-file-width="3599" data-file-height="2459" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Screen_MoorhayesChapel_CullomptonChurch_Devon.PNG" class="internal" title="Enlarge"></a></div><a href="/wiki/Parclose_screen" title="Parclose screen">Parclose screen</a>, c. 1530, of the <a href="/wiki/Moor_Hayes" title="Moor Hayes">Moorhayes</a> Chapel, <a href="/wiki/Cullompton" title="Cullompton">Cullompton</a> Church, Devon, England</div></div></div>
 <dl class="glossary">
 
@@ -609,7 +593,6 @@ Panelling was developed in antiquity to make rooms in stone buildings more comfo
 <dt class="glossary" id="pycnostyle" style="margin-top: 0.4em;"><dfn class="glossary">Pycnostyle</dfn></dt>
 <dd class="glossary">Term given by <a href="/wiki/Vitruvius" title="Vitruvius">Vitruvius</a> to the intercolumniation between the columns of a temple, when this was equal to one and a half diameters.<sup id="cite_ref-57" class="reference"><a href="#cite_note-57">&#91;57&#93;</a></sup></dd>
 </dl>
-<h2><span class="mw-headline" id="Q">Q</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_architecture&amp;action=edit&amp;section=17" title="Edit section: Q">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="quadriporticus" style="margin-top: 0.4em;"><dfn class="glossary">Quadriporticus</dfn></dt>
 <dd class="glossary">Also known as a quadriportico – a four-sided <a href="/wiki/Portico" title="Portico">portico</a>.  The closest modern parallel would be a <a href="/wiki/Colonnade" title="Colonnade">colonnaded</a> <a href="/wiki/Quadrangle_(architecture)" title="Quadrangle (architecture)">quadrangle</a>.</dd>
@@ -617,7 +600,6 @@ Panelling was developed in antiquity to make rooms in stone buildings more comfo
 <dt class="glossary" id="quoin" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Quoin_(architecture)" class="mw-redirect" title="Quoin (architecture)">Quoin</a></dfn></dt>
 <dd class="glossary">The cornerstones of brick or stone walls.  Quoins are also common in some brickwork corners that are alternately recessed and expressed.</dd>
 </dl>
-<h2><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_architecture&amp;action=edit&amp;section=18" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="rake" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Raking_cornice" class="mw-redirect" title="Raking cornice">Rake</a></dfn></dt>
 <dd class="glossary">The diagonal outside facing edge of a gable, sometimes called a <i>raking cornice</i> or a <i>sloping cornice</i>.  Rake is equivalent to slope which is the ratio of the rise to the run of the roof.</dd>
@@ -644,7 +626,6 @@ Panelling was developed in antiquity to make rooms in stone buildings more comfo
 <dd class="glossary">A large and high circular hall or room in a building, usually but not always, surmounted by a dome.</dd>
 
 </dl>
-<h2><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_architecture&amp;action=edit&amp;section=19" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 
 <dt class="glossary" id="sash" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Sash_window" title="Sash window">Sash</a></dfn></dt>
@@ -693,7 +674,6 @@ Panelling was developed in antiquity to make rooms in stone buildings more comfo
 <dt class="glossary" id="systyle" style="margin-top: 0.4em;"><dfn class="glossary">Systyle</dfn></dt>
 <dd class="glossary">in the <a href="/wiki/Classical_order" title="Classical order">classical orders</a>, this describes columns rather thickly set, with an <a href="/wiki/Intercolumniation" title="Intercolumniation">intercolumniation</a> to which two diameters are assigned.<sup id="cite_ref-61" class="reference"><a href="#cite_note-61">&#91;61&#93;</a></sup></dd>
 </dl>
-<h2><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_architecture&amp;action=edit&amp;section=20" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="timber_framing" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Timber_framing" title="Timber framing">Timber framing</a></dfn></dt>
 <dd class="glossary">Is the method of creating structures using heavy timbers jointed by pegged <a href="/wiki/Mortise_and_tenon" title="Mortise and tenon">Mortise and tenon</a> joints.</dd>
@@ -716,12 +696,10 @@ Panelling was developed in antiquity to make rooms in stone buildings more comfo
 <dt class="glossary" id="tympanum" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Tympanum_(architecture)" title="Tympanum (architecture)">Tympanum</a></dfn></dt>
 <dd class="glossary">(<a href="/wiki/Greek_(language)" class="mw-redirect" title="Greek (language)">Greek</a> τύμπανον, from τύπτειν, to strike) the triangular space enclosed between the horizontal cornice of the entablature and the sloping cornice of the pediment. Though sometimes left plain, it is often decorated.</dd>
 </dl>
-<h2><span class="mw-headline" id="U">U</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_architecture&amp;action=edit&amp;section=21" title="Edit section: U">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="undercroft" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Undercroft" title="Undercroft">Undercroft</a></dfn></dt>
 <dd class="glossary">Traditionally, a cellar or storage room.  In modern usage, a ground-level area that is relatively open to the sides, but covered by the building above.</dd>
 </dl>
-<h2><span class="mw-headline" id="V">V</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_architecture&amp;action=edit&amp;section=22" title="Edit section: V">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="ventilation_shaft" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ventilation_shaft" title="Ventilation shaft">Ventilation shaft</a></dfn></dt>
 <dd class="glossary">A small, vertical space within a tall building which permits ventilation of the building.</dd>
@@ -735,14 +713,12 @@ Panelling was developed in antiquity to make rooms in stone buildings more comfo
 <dt class="glossary" id="voussoir" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Voussoir" title="Voussoir">Voussoir</a></dfn></dt>
 <dd class="glossary">A wedge-shaped or tapered stone between the springer and the keystone used to construct an arch.</dd>
 </dl>
-<h2><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_architecture&amp;action=edit&amp;section=23" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="wing" style="margin-top: 0.4em;"><dfn class="glossary">Wing</dfn></dt>
 <dd class="glossary">1.&#160;&#160;A lateral part or projection of a building or structure such as a <a href="/wiki/Wing_wall" title="Wing wall">wing wall</a>.</dd>
 <dd class="glossary">2.&#160;&#160;A subordinate part of a building possibly not connected to the main building.<sup id="cite_ref-62" class="reference"><a href="#cite_note-62">&#91;62&#93;</a></sup></dd>
 <dd class="glossary">3.&#160;&#160;The sides of a <a href="/wiki/Stage_(theatre)" title="Stage (theatre)">stage (theatre)</a>.</dd>
 </dl>
-<h2><span class="mw-headline" id="Z">Z</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_architecture&amp;action=edit&amp;section=24" title="Edit section: Z">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="zaguan" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Zaguan" title="Zaguan">Zaguan</a></dfn></dt>
 <dd class="glossary">Passageway of a central passage plan house, or the complex as a whole, in Territorial or Territorial Revival architecture in the American Southwest</dd>
