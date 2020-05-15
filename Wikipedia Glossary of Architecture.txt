@@ -258,14 +258,10 @@
 "
 "<dt class=""glossary"" id=""dikka"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Dikka"" title=""Dikka"">Dikka</a></dfn></dt>"|"
 <dd class=""glossary"">Islamic architectural term for the tribune raised upon columns, from which the Koran is recited and the prayers intoned by the Imam of the mosque.<sup id=""cite_ref-22"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-22"">&#91;22&#93;</a></sup></dd>
-"
-"<dt class=""glossary"" id=""dipteral"" style=""margin-top: 0.4em;""><dfn class=""glossary""><span id=""Dipteral""></span></dfn></dt>"|"
 <dd class=""glossary"">Temples which have a double range of columns in the <a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#Peristyle"">peristyle</a>, as in the temple of <a href=""https://en.wikipedia.org/wiki/Diana_(mythology)"" title=""Diana (mythology)"">Diana</a> at <a href=""https://en.wikipedia.org/wiki/Ephesus"" title=""Ephesus"">Ephesus</a>.<sup id=""cite_ref-23"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-23"">&#91;23&#93;</a></sup></dd>
 "
 "<dt class=""glossary"" id=""distyle"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Distyle_in_antis"" title=""Distyle in antis"">Distyle in antis</a></dfn></dt>"|"
 <dd class=""glossary"">Having two columns</dd>
-"
-"<dt class=""glossary"" id=""distyle-in-antis"" style=""margin-top: 0.4em;""><dfn class=""glossary""></dfn></dt>"|"
 <dd class=""glossary"">An architectural term for a portico having two columns between two <a href=""https://en.wikipedia.org/wiki/Anta_(architecture)"" title=""Anta (architecture)"">anta</a><sup id=""cite_ref-24"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-24"">&#91;24&#93;</a></sup></dd>
 "
 "<dt class=""glossary"" id=""dodecastyle"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Dodecastyle</dfn></dt>"|"
