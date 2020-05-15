@@ -1,700 +1,700 @@
-"<dt class=""glossary"" id=""abacus"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Abacus_(architecture)"" title=""Abacus (architecture)"">Abacus</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Abacus_(architecture)"" title=""Abacus (architecture)"">Abacus</a>"|"
 <dd class=""glossary"">A flat slab forming the uppermost member or division of the capital of a column.</dd>
 "
-"<dt class=""glossary"" id=""accolade"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Accolade_(architecture)"" title=""Accolade (architecture)"">Accolade</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Accolade_(architecture)"" title=""Accolade (architecture)"">Accolade</a>"|"
 <dd class=""glossary"">A sculptural embellishment of an arch.</dd>
 "
-"<dt class=""glossary"" id=""aisle"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Aisle"" title=""Aisle"">Aisle</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Aisle"" title=""Aisle"">Aisle</a>"|"
 <dd class=""glossary"">Subsidiary space alongside the body of a building, separated from it by columns, piers, or posts.</dd>
 "
-"<dt class=""glossary"" id=""ante-choir"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Ante-choir"" title=""Ante-choir"">Ante-choir</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Ante-choir"" title=""Ante-choir"">Ante-choir</a>"|"
 <dd class=""glossary"">The space enclosed in a church between the outer gate or railing of the <a href=""https://en.wikipedia.org/wiki/Rood_screen"" title=""Rood screen"">rood screen</a> and the door of the screen.</dd>
 "
-"<dt class=""glossary"" id=""apron"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Apron_(architecture)"" title=""Apron (architecture)"">Apron</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Apron_(architecture)"" title=""Apron (architecture)"">Apron</a>"|"
 <dd class=""glossary"">1.&#160;&#160;raised panel below a window or wall monument or tablet.</dd>
 <dd class=""glossary"">2.&#160;&#160;open portion of a marine terminal immediately adjacent to a vessel berth, used in the direct transfer of cargo between the vessel and the terminal.</dd>
 <dd class=""glossary"">3.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Concrete"" title=""Concrete"">concrete</a> slab immediately outside a vehicular door or passageway used to limit the wear on asphalt paving due to repetitive turning movements or heavy loads.</dd>
 "
-"<dt class=""glossary"" id=""apse"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Apse"" title=""Apse"">Apse</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Apse"" title=""Apse"">Apse</a>"|"
 <dd class=""glossary"">Vaulted semicircular or polygonal end of a chancel or chapel.  That portion of a church, usually Christian, beyond the ""crossing"" and opposite the nave.  In some churches, the choir is seated in this space.</dd>
 "
-"<dt class=""glossary"" id=""araeosystyle"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Araeosystyle"" class=""mw-redirect"" title=""Araeosystyle"">Araeosystyle</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Araeosystyle"" class=""mw-redirect"" title=""Araeosystyle"">Araeosystyle</a>"|"
 <dd class=""glossary"">An architectural term applied to a <a href=""https://en.wikipedia.org/wiki/Colonnade"" title=""Colonnade"">colonnade</a>, in which the <a href=""https://en.wikipedia.org/wiki/Intercolumniation"" title=""Intercolumniation"">intercolumniation</a> is alternately wide and narrow.</dd>
 "
-"<dt class=""glossary"" id=""arcade"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Arcade_(architecture)"" title=""Arcade (architecture)"">Arcade</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Arcade_(architecture)"" title=""Arcade (architecture)"">Arcade</a>"|"
 <dd class=""glossary"">Passage or walkway covered over by a succession of <a href=""https://en.wikipedia.org/wiki/Arch"" title=""Arch"">arches</a> or <a href=""https://en.wikipedia.org/wiki/Vault_(architecture)"" title=""Vault (architecture)"">vaults</a> supported by <a href=""https://en.wikipedia.org/wiki/Column"" title=""Column"">columns</a>.  Blind arcade or arcading: the same applied to the wall surface.</dd>
 "
-"<dt class=""glossary"" id=""arch"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Arch"" title=""Arch"">Arch</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Arch"" title=""Arch"">Arch</a>"|"
 <dd class=""glossary"">A curved structure capable of <a href=""https://en.wikipedia.org/wiki/Span_(architecture)"" class=""mw-redirect"" title=""Span (architecture)"">spanning</a> a space while supporting significant weight.</dd>
 "
-"<dt class=""glossary"" id=""architrave"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Architrave"" title=""Architrave"">Architrave</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Architrave"" title=""Architrave"">Architrave</a>"|"
 <dd class=""glossary"">Formalized lintel, the lowest member of the classical entablature. Also the molded frame of a door or window (often borrowing the profile of a classical architrave).</dd>
 "
-"<dt class=""glossary"" id=""area"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Area or basement area</dfn></dt>"|"
+"Area or basement area"|"
 <dd class=""glossary"">In <a href=""https://en.wikipedia.org/wiki/Georgian_architecture"" title=""Georgian architecture"">Georgian architecture</a>, the small paved yard giving entry, via ""area steps"", to the basement floor at the front of a terraced house.</dd>
 "
-"<dt class=""glossary"" id=""arris"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Arris"" title=""Arris"">Arris</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Arris"" title=""Arris"">Arris</a>"|"
 <dd class=""glossary"">Sharp edge where two surfaces meet at an angle such as the corner of a square column or shaft.</dd>
 "
-"<dt class=""glossary"" id=""arrowslit"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Arrowslit"" title=""Arrowslit"">Arrowslit</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Arrowslit"" title=""Arrowslit"">Arrowslit</a>"|"
 <dd class=""glossary"">A thin vertical aperture in a fortification through which an archer can launch arrows.</dd>
 "
-"<dt class=""glossary"" id=""articulation"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Articulation_(architecture)"" title=""Articulation (architecture)"">Articulation</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Articulation_(architecture)"" title=""Articulation (architecture)"">Articulation</a>"|"
 <dd class=""glossary"">Articulation is the manner or method of jointing parts such that each part is clear and distinct in relation to the others, even though joined.</dd>
 "
-"<dt class=""glossary"" id=""ashlar"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Ashlar"" title=""Ashlar"">Ashlar</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Ashlar"" title=""Ashlar"">Ashlar</a>"|"
 <dd class=""glossary"">Masonry of large blocks cut with even faces and square edges.</dd>
 "
-"<dt class=""glossary"" id=""atlas"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Atlas_(architecture)"" title=""Atlas (architecture)"">Atlas</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Atlas_(architecture)"" title=""Atlas (architecture)"">Atlas</a>"|"
 <dd class=""glossary"">A support sculpted in the form of a man, which may take the place of a column, a pier or a pilaster.</dd>
 "
-"<dt class=""glossary"" id=""atrium"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Atrium_(architecture)"" title=""Atrium (architecture)"">Atrium</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Atrium_(architecture)"" title=""Atrium (architecture)"">Atrium</a>"|"
 <dd class=""glossary"">(plural: atria) Inner court of a Roman house; in a multi-story building, a toplit covered court rising through all stories.</dd>
 "
-"<dt class=""glossary"" id=""attic"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Attic"" title=""Attic"">Attic</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Attic"" title=""Attic"">Attic</a>"|"
 <dd class=""glossary"">Small top story within a roof above the uppermost ceiling. The story above the main <a href=""https://en.wikipedia.org/wiki/Entablature"" title=""Entablature"">entablature</a> of a classical <a href=""https://en.wikipedia.org/wiki/Fa%C3%A7ade"" class=""mw-redirect"" title=""Façade"">façade</a>.</dd>
 "
-"<dt class=""glossary"" id=""bahut"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/w/index.php?title=Bahut_(architecture)&amp;action=edit&amp;redlink=1"" class=""new"" title=""Bahut (architecture) (page does not exist)"">Bahut</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/w/index.php?title=Bahut_(architecture)&amp;action=edit&amp;redlink=1"" class=""new"" title=""Bahut (architecture) (page does not exist)"">Bahut</a>"|"
 <dd class=""glossary"">A small parapet or attic wall bearing the weight of the roof of a cathedral or church.</dd>
 "
-"<dt class=""glossary"" id=""balconet"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Balconet"" title=""Balconet"">Balconet</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Balconet"" title=""Balconet"">Balconet</a>"|"
 <dd class=""glossary"">A false balcony, or railing at the outer plane of a window.</dd>
 "
-"<dt class=""glossary"" id=""ball_flower"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Ball_flower"" title=""Ball flower"">Ball flower</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Ball_flower"" title=""Ball flower"">Ball flower</a>"|"
 <dd class=""glossary"">An architectural ornament in the form of a ball inserted in the cup of a flower, which came into use in the latter part of the 13th, and was in great vogue in the early part of the 14th century.</dd>
 
 <div class=""thumb tright""><div class=""thumbinner"" style=""width:222px;""><a href=""https://en.wikipedia.org/wiki/File:Orna138-Docken-Baluster.png"" class=""image""><img alt="""" src=""//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Orna138-Docken-Baluster.png/220px-Orna138-Docken-Baluster.png"" decoding=""async"" width=""220"" height=""337"" class=""thumbimage"" srcset=""//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Orna138-Docken-Baluster.png/330px-Orna138-Docken-Baluster.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Orna138-Docken-Baluster.png/440px-Orna138-Docken-Baluster.png 2x"" data-file-width=""1302"" data-file-height=""1992"" /></a>  <div class=""thumbcaption""><div class=""magnify""><a href=""https://en.wikipedia.org/wiki/File:Orna138-Docken-Baluster.png"" class=""internal"" title=""Enlarge""></a></div>A page of fanciful balusters</div></div></div>"
-"<dt class=""glossary"" id=""baluster"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Baluster"" title=""Baluster"">Baluster</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Baluster"" title=""Baluster"">Baluster</a>"|"
 <dd class=""glossary"">A small moulded shaft, square or circular, in stone or wood, sometimes metal, supporting the coping of a parapet or the handrail of a staircase. A series of balusters supporting a <a href=""https://en.wikipedia.org/wiki/Handrail"" title=""Handrail"">handrail</a> or <a href=""https://en.wikipedia.org/wiki/Coping_(architecture)"" title=""Coping (architecture)"">coping</a> is called a <b>balustrade</b>.</dd>
 "
-"<dt class=""glossary"" id=""bar-stayed_girder"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/w/index.php?title=Bar-stayed_girder&amp;action=edit&amp;redlink=1"" class=""new"" title=""Bar-stayed girder (page does not exist)"">Bar-stayed girder</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/w/index.php?title=Bar-stayed_girder&amp;action=edit&amp;redlink=1"" class=""new"" title=""Bar-stayed girder (page does not exist)"">Bar-stayed girder</a>"|"
 <dd class=""glossary"">A structural member of inadequate capacity for its load or span that is augmented by one or two steel bars anchored to each bearing end at or above the centroid of the girder to assume the tension forces.  The bar(s) runs down and below the girder and stand off the girder on one or more struts anchored to the girder at its bottom surface.  The struts are sized to accept the compressive forces imposed without bending. The load limit to this member is the crippling capacity (horizontal failure) of the girder.</dd>
 "
-"<dt class=""glossary"" id=""bargeboard"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Bargeboard"" title=""Bargeboard"">Bargeboard</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Bargeboard"" title=""Bargeboard"">Bargeboard</a>"|"
 <dd class=""glossary"">A board fastened to the projecting gables of a roof.</dd>
 "
-"<dt class=""glossary"" id=""barrel_vault"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Barrel_vault"" title=""Barrel vault"">Barrel vault</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Barrel_vault"" title=""Barrel vault"">Barrel vault</a>"|"
 <dd class=""glossary"">An architectural element formed by the extrusion of a single curve (or pair of curves, in the case of a pointed barrel vault) along a given distance.</dd>
 "
-"<dt class=""glossary"" id=""bartizan"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Bartizan"" title=""Bartizan"">Bartizan</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Bartizan"" title=""Bartizan"">Bartizan</a>"|"
 <dd class=""glossary"">An overhanging, wall-mounted turret projecting from the walls, usually at the corners, of medieval fortifications or churches.</dd>
 "
-"<dt class=""glossary"" id=""basement"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Basement"" title=""Basement"">Basement</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Basement"" title=""Basement"">Basement</a>"|"
 <dd class=""glossary"">Lowest, subordinate storey of building often either entirely or partially below ground level; the lowest part of classical elevation, below the <a href=""https://en.wikipedia.org/wiki/Piano_nobile"" title=""Piano nobile"">piano nobile</a>.</dd>
 "
-"<dt class=""glossary"" id=""basilica"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Basilica"" title=""Basilica"">Basilica</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Basilica"" title=""Basilica"">Basilica</a>"|"
 <dd class=""glossary"">Originally a Roman, large roofed hall erected for transacting business and disposing of legal matters.; later the term came to describe an aisled building with a clerestory. Medieval cathedral plans were a development of the basilica plan type.</dd>
 "
-"<dt class=""glossary"" id=""batement_lights"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/w/index.php?title=Batement_Lights_(architecture)&amp;action=edit&amp;redlink=1"" class=""new"" title=""Batement Lights (architecture) (page does not exist)"">Batement Lights (architecture)</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/w/index.php?title=Batement_Lights_(architecture)&amp;action=edit&amp;redlink=1"" class=""new"" title=""Batement Lights (architecture) (page does not exist)"">Batement Lights (architecture)</a>"|"
 <dd class=""glossary"">The lights in the upper part of a perpendicular window, abated, or only half the width of those below.<sup id=""cite_ref-1"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-1"">&#91;1&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""batter"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Batter_(walls)"" title=""Batter (walls)"">Batter (walls)</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Batter_(walls)"" title=""Batter (walls)"">Batter (walls)</a>"|"
 <dd class=""glossary"">Upwardly receding slope of a wall or column.</dd>
 "
-"<dt class=""glossary"" id=""battlement"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Battlement"" title=""Battlement"">Battlement</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Battlement"" title=""Battlement"">Battlement</a>"|"
 <dd class=""glossary"">A parapet (i.e., a defensive low wall between chest-height and head-height), in which rectangular gaps or indentations occur at intervals to allow for the discharge of arrows or other missiles.</dd>
 "
-"<dt class=""glossary"" id=""bay"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Bay_(architecture)"" title=""Bay (architecture)"">Bays</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Bay_(architecture)"" title=""Bay (architecture)"">Bays</a>"|"
 <dd class=""glossary"">Internal compartments of a building; each divided from the other by subtle means such as the boundaries implied by divisions marked in the side walls (columns, pilasters, etc.) or the ceiling (beams, etc.). Also external divisions of a building by fenestration (windows).</dd>
 "
-"<dt class=""glossary"" id=""bay_window"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Bay_window"" title=""Bay window"">Bay window</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Bay_window"" title=""Bay window"">Bay window</a>"|"
 <dd class=""glossary"">Window of one or more storeys projecting from the face of a building. <a href=""https://en.wikipedia.org/w/index.php?title=Canted_window&amp;action=edit&amp;redlink=1"" class=""new"" title=""Canted window (page does not exist)"">Canted</a>: with a straight front and angled sides. <a href=""https://en.wikipedia.org/wiki/Bow_window"" title=""Bow window"">Bow window</a>: curved. <a href=""https://en.wikipedia.org/wiki/Oriel_window"" title=""Oriel window"">Oriel</a>: rests on corbels or brackets and starts above ground level; also the bay window at the dais end of a medieval <a href=""https://en.wikipedia.org/wiki/Great_hall"" title=""Great hall"">great hall</a>.</dd>
 "
-"<dt class=""glossary"" id=""belfry"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Bell_tower"" title=""Bell tower"">Belfry</a> <span id=""Belfry""></span><span id=""Bell_tower""></span></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Bell_tower"" title=""Bell tower"">Belfry</a> <span id=""Belfry""></span><span id=""Bell_tower""></span>"|"
 <dd class=""glossary"">Chamber or stage in a tower where bells are hung. The term is also used to describe the manner in which bricks are laid in a wall so that they interlock.</dd>
 "
-"<dt class=""glossary"" id=""bench_table"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Bench_table"" title=""Bench table"">Bench table</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Bench_table"" title=""Bench table"">Bench table</a>"|"
 <dd class=""glossary"">Stone seat which runs round the walls of large churches, and sometimes round the piers; it very generally is placed in the porches.</dd>
 "
-"<dt class=""glossary"" id=""bond"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Brickwork"" title=""Brickwork"">Bond</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Brickwork"" title=""Brickwork"">Bond</a>"|"
 <dd class=""glossary"">Brickwork with overlapping bricks. Types of bond include stretcher, English, header, Flemish, garden wall, herringbone, basket, American, and Chinese.</dd>
 "
-"<dt class=""glossary"" id=""boss"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Boss_(architecture)"" title=""Boss (architecture)"">Boss</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Boss_(architecture)"" title=""Boss (architecture)"">Boss</a>"|"
 <dd class=""glossary"">1.&#160;&#160;Roughly cut stone set in place for later carving.</dd>
 <dd class=""glossary"">2.&#160;&#160;An ornamental projection, a carved <a href=""https://en.wikipedia.org/wiki/Keystone_(architecture)"" title=""Keystone (architecture)"">keystone</a> of a <a href=""https://en.wikipedia.org/wiki/Ribbed_vault"" class=""mw-redirect"" title=""Ribbed vault"">ribbed vault</a> at the intersection of the <a href=""https://en.wikipedia.org/wiki/Ogive"" title=""Ogive"">ogives</a>.</dd>
 "
-"<dt class=""glossary"" id=""bossage"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Bossage"" title=""Bossage"">Bossage</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Bossage"" title=""Bossage"">Bossage</a>"|"
 <dd class=""glossary"">Uncut stone that is laid in place in a building, projecting outward from the building, to later be carved into decorative moldings, capitals, arms, etc. Bossages are also <a href=""https://en.wiktionary.org/wiki/Rustic"" class=""extiw"" title=""wiktionary:Rustic"">rustic</a> work, consisting of stones which seem to advance beyond the surface of the building, by reason of indentures, or channels left in the joinings; used chiefly in the corners of buildings, and called rustic <a href=""https://en.wikipedia.org/wiki/Quoin_(architecture)"" class=""mw-redirect"" title=""Quoin (architecture)"">quoins</a>. The cavity or indenture may be round, square, chamfered, beveled, diamond-shaped, or enclosed with a <a href=""https://en.wikipedia.org/wiki/Cavetto"" title=""Cavetto"">cavetto</a> or <a href=""https://en.wikipedia.org/wiki/Listel"" class=""mw-redirect"" title=""Listel"">listel</a>.<sup id=""cite_ref-Cyclopaedia-1728_2-0"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-Cyclopaedia-1728-2"">&#91;2&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""boutant"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/w/index.php?title=Boutant&amp;action=edit&amp;redlink=1"" class=""new"" title=""Boutant (page does not exist)"">Boutant</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/w/index.php?title=Boutant&amp;action=edit&amp;redlink=1"" class=""new"" title=""Boutant (page does not exist)"">Boutant</a>"|"
 <dd class=""glossary"">Type of support. An <a href=""https://en.wikipedia.org/wiki/Arc-boutant"" class=""mw-redirect"" title=""Arc-boutant"">arc-boutant</a>, or flying buttress, serves to sustain a vault, and is self-sustained by some strong wall or massive work. A pillar boutant is a large chain or jamb of stone, made to support a wall, terrace, or vault. The word is French, and comes from the verb <i>bouter</i>, ""to butt"" or ""abut"".<sup id=""cite_ref-3"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-3"">&#91;3&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""bracket"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Bracket_(architecture)"" title=""Bracket (architecture)"">Bracket</a> (see also <a href=""https://en.wikipedia.org/wiki/Corbel"" title=""Corbel"">corbel</a>)</dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Bracket_(architecture)"" title=""Bracket (architecture)"">Bracket</a> (see also <a href=""https://en.wikipedia.org/wiki/Corbel"" title=""Corbel"">corbel</a>)"|"
 <dd class=""glossary"">Weight-bearing member made of wood, stone, or metal that overhangs a wall.</dd>
 "
-"<dt class=""glossary"" id=""bressummer"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Bressummer"" title=""Bressummer"">Bressummer</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Bressummer"" title=""Bressummer"">Bressummer</a>"|"
 <dd class=""glossary"">(literally ""breast- beam"") – Large, horizontal beam supporting the wall above, especially in a jettied building.</dd>
 "
-"<dt class=""glossary"" id=""brise_soleil"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Brise_soleil"" title=""Brise soleil"">Brise soleil</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Brise_soleil"" title=""Brise soleil"">Brise soleil</a>"|"
 <dd class=""glossary"">Projecting fins or canopies which shade windows from direct sunlight.</dd>
 "
-"<dt class=""glossary"" id=""bullseye_window"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Oeil-de-Boeuf"" class=""mw-redirect"" title=""Oeil-de-Boeuf"">Bullseye window</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Oeil-de-Boeuf"" class=""mw-redirect"" title=""Oeil-de-Boeuf"">Bullseye window</a>"|"
 <dd class=""glossary"">Small oval window, set horizontally.</dd>
 "
-"<dt class=""glossary"" id=""bulwark"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Bulwark_(disambiguation)"" class=""mw-redirect mw-disambig"" title=""Bulwark (disambiguation)"">Bulwark</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Bulwark_(disambiguation)"" class=""mw-redirect mw-disambig"" title=""Bulwark (disambiguation)"">Bulwark</a>"|"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/Barricade"" title=""Barricade"">Barricade</a> of <a href=""https://en.wikipedia.org/wiki/Beam_(structure)"" title=""Beam (structure)"">beams</a> and <a href=""https://en.wikipedia.org/wiki/Soil"" title=""Soil"">soil</a> used in 15th- and 16th-century <a href=""https://en.wikipedia.org/wiki/Fortification"" title=""Fortification"">fortifications</a> designed to mount <a href=""https://en.wikipedia.org/wiki/Artillery"" title=""Artillery"">artillery</a>. On board <a href=""https://en.wikipedia.org/wiki/Ship"" title=""Ship"">ships</a> the term refers to the <a href=""https://en.wikipedia.org/wiki/Woodwork"" class=""mw-redirect"" title=""Woodwork"">woodwork</a> running round the ship above the level of the <a href=""https://en.wikipedia.org/wiki/Deck_(ship)"" title=""Deck (ship)"">deck</a>. Figuratively it means anything serving as a defence. Dutch loanword; Bolwerk</dd>
 "
-"<dt class=""glossary"" id=""buttress"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Buttress"" title=""Buttress"">Buttress</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Buttress"" title=""Buttress"">Buttress</a>"|"
 <dd class=""glossary"">Vertical member projecting from a wall to stabilize it or to resist the lateral thrust of an arch, roof, or vault. A <a href=""https://en.wikipedia.org/wiki/Flying_buttress"" title=""Flying buttress"">flying buttress</a> transmits the thrust to a heavy abutment by means of an <a href=""https://en.wikipedia.org/wiki/Arch"" title=""Arch"">arch</a> or half-arch.</dd>
 "
-"<dt class=""glossary"" id=""cancellus"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Cancellus"" class=""mw-redirect"" title=""Cancellus"">Cancellus</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Cancellus"" class=""mw-redirect"" title=""Cancellus"">Cancellus</a>"|"
 <dd class=""glossary"">(plural: Cancelli) Barriers which correspond to the modern balustrade or railing, especially the screen dividing the body of a church from the part occupied by the ministers hence chancel. The Romans employed cancelli to partition off portions of the courts of law.<sup id=""cite_ref-4"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-4"">&#91;4&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""cantilever"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Cantilever"" title=""Cantilever"">Cantilever</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Cantilever"" title=""Cantilever"">Cantilever</a>"|"
 <dd class=""glossary"">An unsupported overhang acting as a lever, like a flagpole sticking out of the side of a wall.</dd>
 "
-"<dt class=""glossary"" id=""capital"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Capital_(architecture)"" title=""Capital (architecture)"">Capital</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Capital_(architecture)"" title=""Capital (architecture)"">Capital</a>"|"
 <dd class=""glossary"">The topmost member of a column (or pilaster).</dd>
 
 <div class=""thumb tright""><div class=""thumbinner"" style=""width:222px;""><a href=""https://en.wikipedia.org/wiki/File:Porch_of_Maidens.jpg"" class=""image""><img alt="""" src=""//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Porch_of_Maidens.jpg/220px-Porch_of_Maidens.jpg"" decoding=""async"" width=""220"" height=""147"" class=""thumbimage"" srcset=""//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Porch_of_Maidens.jpg/330px-Porch_of_Maidens.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Porch_of_Maidens.jpg/440px-Porch_of_Maidens.jpg 2x"" data-file-width=""3519"" data-file-height=""2345"" /></a>  <div class=""thumbcaption""><div class=""magnify""><a href=""https://en.wikipedia.org/wiki/File:Porch_of_Maidens.jpg"" class=""internal"" title=""Enlarge""></a></div>The Caryatid Porch of the <a href=""https://en.wikipedia.org/wiki/Erechtheion"" title=""Erechtheion"">Erechtheion</a>, <a href=""https://en.wikipedia.org/wiki/Athens"" title=""Athens"">Athens</a>, 421–407 BC</div></div></div>"
-"<dt class=""glossary"" id=""caryatid"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Caryatid"" title=""Caryatid"">Caryatid</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Caryatid"" title=""Caryatid"">Caryatid</a>"|"
 <dd class=""glossary"">A sculpted female figure serving as an architectural support taking the place of a column or a pillar supporting an entablature on her head.</dd>
 "
-"<dt class=""glossary"" id=""casement_window"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Casement_window"" title=""Casement window"">Casement window</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Casement_window"" title=""Casement window"">Casement window</a>"|"
 <dd class=""glossary"">Window hung vertically, hinged one side, so that it swings inward or outward.</dd>
 "
-"<dt class=""glossary"" id=""cauliculus"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Cauliculus, or caulicole <span id=""cauliculus""></span><span id=""caulicole""></span></dfn></dt>"|"
+"Cauliculus, or caulicole <span id=""cauliculus""></span><span id=""caulicole""></span>"|"
 <dd class=""glossary"">Stalks (eight in number) with two leaves from which rise the helices or spiral scrolls of the <a href=""https://en.wikipedia.org/wiki/Corinthian_capital"" class=""mw-redirect"" title=""Corinthian capital"">Corinthian capital</a> to support the <a href=""https://en.wikipedia.org/wiki/Abacus"" title=""Abacus"">abacus</a>.<sup id=""cite_ref-5"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-5"">&#91;5&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""cella"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Cella"" title=""Cella"">Cella</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Cella"" title=""Cella"">Cella</a>"|"
 <dd class=""glossary"">The inner chamber of a temple in classical architecture.</dd>
 "
-"<dt class=""glossary"" id=""chalcidicum"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Chalcidicum</dfn></dt>"|"
+"Chalcidicum"|"
 <dd class=""glossary"">In Roman architecture, the vestibule or portico of a public building opening on to the forum, as in the basilica of Eumachia at Pompeii, and the basilica of Constantine at Rome, where it was placed at one end. See: Lacunar.<sup id=""cite_ref-6"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-6"">&#91;6&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""chancel"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Chancel"" title=""Chancel"">Chancel</a> (also Presbytery) <span id=""chancel""></span><span id=""presbytery""></span></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Chancel"" title=""Chancel"">Chancel</a> (also Presbytery) <span id=""chancel""></span><span id=""presbytery""></span>"|"
 <dd class=""glossary"">In church architecture, the space around the altar at the east end of a traditional Christian church building, including the choir and sanctuary.</dd>
 "
-"<dt class=""glossary"" id=""chandrashala"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Chandrashala"" class=""mw-redirect"" title=""Chandrashala"">Chandrashala</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Chandrashala"" class=""mw-redirect"" title=""Chandrashala"">Chandrashala</a>"|"
 <dd class=""glossary"">The circular or horseshoe arch that decorates  many Indian cave temples and shrines.</dd>
 "
-"<dt class=""glossary"" id=""chimera"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Chimera_(architecture)"" class=""mw-redirect"" title=""Chimera (architecture)"">Chimera</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Chimera_(architecture)"" class=""mw-redirect"" title=""Chimera (architecture)"">Chimera</a>"|"
 <dd class=""glossary"">Chimera, as an architectural feature, means a fantastic, mythical or grotesque figure used for decorative purposes.</dd>
 "
-"<dt class=""glossary"" id=""chimney"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Chimney"" title=""Chimney"">Chimney</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Chimney"" title=""Chimney"">Chimney</a>"|"
 <dd class=""glossary"">A structure which provides ventilation.</dd>
 "
-"<dt class=""glossary"" id=""chresmographion"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Chresmographion</dfn></dt>"|"
+"Chresmographion"|"
 <dd class=""glossary"">Chamber between the pronaos and the <a href=""https://en.wikipedia.org/wiki/Cella"" title=""Cella"">cella</a> in Greek temples where oracles were delivered.<sup id=""cite_ref-7"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-7"">&#91;7&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""cincture"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Cincture</dfn></dt>"|"
+"Cincture"|"
 <dd class=""glossary"">Ring, list, or <a href=""https://en.wikipedia.org/wiki/Annulet_(architecture)"" title=""Annulet (architecture)"">fillet</a> at the top and bottom of a column, which divides the shaft from the capital and base.<sup id=""cite_ref-8"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-8"">&#91;8&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""cinquecento"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Cinquecento"" title=""Cinquecento"">Cinquecento</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Cinquecento"" title=""Cinquecento"">Cinquecento</a>"|"
 <dd class=""glossary"">Style which became prevalent in Italy in the century following 1500, now usually called 16th-century work. It was the result of the revival of classic architecture known as Renaissance, but the change had commenced already a century earlier, in the works of <a href=""https://en.wikipedia.org/wiki/Lorenzo_Ghiberti"" title=""Lorenzo Ghiberti"">Ghiberti</a> and <a href=""https://en.wikipedia.org/wiki/Donatello"" title=""Donatello"">Donatello</a> in sculpture, and of <a href=""https://en.wikipedia.org/wiki/Filippo_Brunelleschi"" title=""Filippo Brunelleschi"">Brunelleschi</a> and <a href=""https://en.wikipedia.org/wiki/Leone_Battista_Alberti"" class=""mw-redirect"" title=""Leone Battista Alberti"">Alberti</a> in architecture.<sup id=""cite_ref-9"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-9"">&#91;9&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""cippus"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Cippus"" title=""Cippus"">Cippus</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Cippus"" title=""Cippus"">Cippus</a>"|"
 <dd class=""glossary"">(plural: cippi) A low, round or rectangular pedestal set up by the Romans for military purposes such as a milestone or a boundary post. The inscriptions on some cippi in the British Museum show that they were occasionally used as funeral memorials.<sup id=""cite_ref-10"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-10"">&#91;10&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""circulation"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Circulation_(architecture)"" title=""Circulation (architecture)"">Circulation</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Circulation_(architecture)"" title=""Circulation (architecture)"">Circulation</a>"|"
 <dd class=""glossary"">Describes the flow of people throughout a building.</dd>
 "
-"<dt class=""glossary"" id=""cleithral"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Cleithral</dfn></dt>"|"
+"Cleithral"|"
 <dd class=""glossary"">Term applied to a covered Greek temple, in contradistinction to <a href=""https://en.wikipedia.org/wiki/Hypaethral"" title=""Hypaethral"">hypaethral</a>, which designates one that is uncovered; the roof of a cleithral temple completely covers it.<sup id=""cite_ref-11"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-11"">&#91;11&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""clerestory"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Clerestory"" title=""Clerestory"">Clerestory</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Clerestory"" title=""Clerestory"">Clerestory</a>"|"
 <dd class=""glossary"">Upper part of the nave of a large church, containing a series of windows.</dd>
 "
-"<dt class=""glossary"" id=""coffer"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Coffer"" title=""Coffer"">Coffer</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Coffer"" title=""Coffer"">Coffer</a>"|"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Coffer"" title=""Coffer"">coffer</a>, in architecture, is a sunken panel in the shape of a square, rectangle, or octagon that serves as a decorative device, usually in a ceiling or vault. Also called caissons, or lacunar.<sup id=""cite_ref-FOOTNOTEChing199530_12-0"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-FOOTNOTEChing199530-12"">&#91;12&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""colarin"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Colarin or <a href=""https://en.wikipedia.org/wiki/Hypotrachelium"" title=""Hypotrachelium"">Hypotrachelium</a></dfn></dt>"|"
+"Colarin or <a href=""https://en.wikipedia.org/wiki/Hypotrachelium"" title=""Hypotrachelium"">Hypotrachelium</a>"|"
 <dd class=""glossary"">(also colarino, collarino, or hypotrachelium) The little frieze of the capital of the Tuscan and Doric column placed between the astragal, and the annulets. It was called <a href=""https://en.wikipedia.org/wiki/Hypotrachelium"" title=""Hypotrachelium"">hypotrachelium</a> by <a href=""https://en.wikipedia.org/wiki/Vitruvius"" title=""Vitruvius"">Vitruvius</a>.</dd>
 "
-"<dt class=""glossary"" id=""column"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Column"" title=""Column"">Column</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Column"" title=""Column"">Column</a>"|"
 <dd class=""glossary"">A structural element that transmits, through compression, the weight of the structure above to other structural elements below.</dd>
 "
-"<dt class=""glossary"" id=""compluvium"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Compluvium"" class=""mw-redirect"" title=""Compluvium"">Compluvium</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Compluvium"" class=""mw-redirect"" title=""Compluvium"">Compluvium</a>"|"
 <dd class=""glossary"">Latin term for the open space left in the roof of the <a href=""https://en.wikipedia.org/wiki/Atrium_(architecture)"" title=""Atrium (architecture)"">atrium</a> of a Roman house (<a href=""https://en.wikipedia.org/wiki/Domus"" title=""Domus"">domus</a>) for lighting it and the rooms round.<sup id=""cite_ref-13"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-13"">&#91;13&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""coping"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Coping_(architecture)"" title=""Coping (architecture)"">Coping</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Coping_(architecture)"" title=""Coping (architecture)"">Coping</a>"|"
 <dd class=""glossary"">The capping or covering of a wall.</dd>
 "
-"<dt class=""glossary"" id=""corbel"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Corbel"" title=""Corbel"">Corbel</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Corbel"" title=""Corbel"">Corbel</a>"|"
 <dd class=""glossary"">A structural piece of stone, wood or metal jutting from a wall to carry a superincumbent weight.</dd>
 "
-"<dt class=""glossary"" id=""corinthian_order"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Corinthian_order"" title=""Corinthian order"">Corinthian order</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Corinthian_order"" title=""Corinthian order"">Corinthian order</a>"|"
 <dd class=""glossary"">One of the three <a href=""https://en.wikipedia.org/wiki/Classical_order"" title=""Classical order"">orders</a> or organisational systems of Ancient Greek or classical architecture characterised by columns which stood on the flat pavement of a temple with a base, their vertical shafts fluted with parallel concave grooves topped by a <a href=""https://en.wikipedia.org/wiki/Capital_(architecture)"" title=""Capital (architecture)"">capital</a> decorated with <a href=""https://en.wikipedia.org/wiki/Acanthus_(ornament)"" title=""Acanthus (ornament)"">acanthus</a> leaves, that flared from the column to meet an <a href=""https://en.wikipedia.org/wiki/Abacus_(architecture)"" title=""Abacus (architecture)"">abacus</a> with concave sides at the intersection with the horizontal beam that they carried.</dd>
 "
-"<dt class=""glossary"" id=""cornice"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Cornice"" title=""Cornice"">Cornice</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Cornice"" title=""Cornice"">Cornice</a>"|"
 <dd class=""glossary"">Upper section of an entablature, a projecting shelf along the top of a wall often supported by brackets or <a href=""https://en.wikipedia.org/wiki/Corbel"" title=""Corbel"">corbels</a>.</dd>
 "
-"<dt class=""glossary"" id=""cresting"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Cresting_(architecture)"" title=""Cresting (architecture)"">Cresting</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Cresting_(architecture)"" title=""Cresting (architecture)"">Cresting</a>"|"
 <dd class=""glossary"">Ornamentation along the ridge of a roof.</dd>
 "
-"<dt class=""glossary"" id=""cross_springer"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Cross Springer</dfn></dt>"|"
+"Cross Springer"|"
 <dd class=""glossary"">Block from which the diagonal ribs of a vault spring or start.  The top of the springer is known as the skewback.<sup id=""cite_ref-14"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-14"">&#91;14&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""cross-wing"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Cross-wing"" title=""Cross-wing"">Cross-wing</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Cross-wing"" title=""Cross-wing"">Cross-wing</a>"|"
 <dd class=""glossary"">Wing attached to a main or original house block, its axis at right angles to the original block, and often gabled.</dd>
 "
-"<dt class=""glossary"" id=""crypt"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Crypt"" title=""Crypt"">Crypt</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Crypt"" title=""Crypt"">Crypt</a>"|"
 <dd class=""glossary"">stone chamber beneath the floor of a church or other building. It typically contains <a href=""https://en.wikipedia.org/wiki/Coffin"" title=""Coffin"">coffins</a>, <a href=""https://en.wikipedia.org/wiki/Sarcophagus"" title=""Sarcophagus"">sarcophagi</a>, or <a href=""https://en.wikipedia.org/wiki/Relic"" title=""Relic"">religious relics</a>.</dd>
 "
-"<dt class=""glossary"" id=""cryptoporticus"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Cryptoporticus"" title=""Cryptoporticus"">Cryptoporticus</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Cryptoporticus"" title=""Cryptoporticus"">Cryptoporticus</a>"|"
 <dd class=""glossary"">Concealed or covered passage, generally underground, though lighted and ventilated from the open air. One of the best-known examples is the crypto-porticus under the palaces of the Caesars in Rome. In Hadrians villa in Rome they formed the principal private intercommunication between the several buildings.<sup id=""cite_ref-15"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-15"">&#91;15&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""cuneus"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Cuneus</dfn></dt>"|"
+"Cuneus"|"
 <dd class=""glossary"">A wedge-shaped division of the Roman theatre separated by the <i>scalae</i> or stairways.<sup id=""cite_ref-16"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-16"">&#91;16&#93;</a></sup> This shape also occurred in medieval architecture.</dd>
 "
-"<dt class=""glossary"" id=""cupola"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Cupola"" title=""Cupola"">Cupola</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Cupola"" title=""Cupola"">Cupola</a>"|"
 <dd class=""glossary"">A small, most often dome-like, structure on top of a building.</dd>
 "
-"<dt class=""glossary"" id=""cyrto-style"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Cyrto-style</dfn></dt>"|"
+"Cyrto-style"|"
 <dd class=""glossary"">A circular projecting portico with columns.<sup id=""cite_ref-17"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-17"">&#91;17&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""denticulation_(architecture)"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Denticulation (architecture)</dfn></dt>"|"
+"Denticulation (architecture)"|"
 <dd class=""glossary"">Finely toothed or notched; having <a href=""https://en.wikipedia.org/wiki/Dentil"" title=""Dentil"">dentils</a> (a dentil is one of a series of small rectangular blocks projecting from a molding or beneath a cornice).
 <sup id=""cite_ref-18"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-18"">&#91;18&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""diastyle"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Diastyle</dfn></dt>"|"
+"Diastyle"|"
 <dd class=""glossary"">Term used to designate an <a href=""https://en.wikipedia.org/wiki/Intercolumniation"" title=""Intercolumniation"">intercolumniation</a> of three or four diameters.<sup id=""cite_ref-19"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-19"">&#91;19&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""diaulos"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Diaulos_(architecture)"" title=""Diaulos (architecture)"">Diaulos</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Diaulos_(architecture)"" title=""Diaulos (architecture)"">Diaulos</a>"|"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#Peristyle"">Peristyle</a> round the great court of the <a href=""https://en.wikipedia.org/wiki/Palaestra"" title=""Palaestra"">palaestra</a>, described by <a href=""https://en.wikipedia.org/wiki/Vitruvius"" title=""Vitruvius"">Vitruvius</a>, which measured two stadia (1,200&#160;ft.) in length, on the south side this peristyle had two rows of columns, so that in stormy weather the rain might not be driven into the inner part. The word was also used in ancient Greece for a foot race of twice the usual length.<sup id=""cite_ref-20"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-20"">&#91;20&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""diazoma"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Diazoma</dfn></dt>"|"
+"Diazoma"|"
 <dd class=""glossary"">A horizontal aisle in an ancient <a href=""https://en.wikipedia.org/wiki/Greek_theater"" class=""mw-redirect"" title=""Greek theater"">Greek theater</a> that separates the lower and upper tiers of  semi-circular seating and intersects with the vertical aisles.<sup id=""cite_ref-21"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-21"">&#91;21&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""dikka"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Dikka"" title=""Dikka"">Dikka</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Dikka"" title=""Dikka"">Dikka</a>"|"
 <dd class=""glossary"">Islamic architectural term for the tribune raised upon columns, from which the Koran is recited and the prayers intoned by the Imam of the mosque.<sup id=""cite_ref-22"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-22"">&#91;22&#93;</a></sup></dd>
 <dd class=""glossary"">Temples which have a double range of columns in the <a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#Peristyle"">peristyle</a>, as in the temple of <a href=""https://en.wikipedia.org/wiki/Diana_(mythology)"" title=""Diana (mythology)"">Diana</a> at <a href=""https://en.wikipedia.org/wiki/Ephesus"" title=""Ephesus"">Ephesus</a>.<sup id=""cite_ref-23"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-23"">&#91;23&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""distyle"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Distyle_in_antis"" title=""Distyle in antis"">Distyle in antis</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Distyle_in_antis"" title=""Distyle in antis"">Distyle in antis</a>"|"
 <dd class=""glossary"">Having two columns</dd>
 <dd class=""glossary"">An architectural term for a portico having two columns between two <a href=""https://en.wikipedia.org/wiki/Anta_(architecture)"" title=""Anta (architecture)"">anta</a><sup id=""cite_ref-24"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-24"">&#91;24&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""dodecastyle"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Dodecastyle</dfn></dt>"|"
+"Dodecastyle"|"
 <dd class=""glossary"">Temple where the <a href=""https://en.wikipedia.org/wiki/Portico"" title=""Portico"">portico</a> has twelve columns in front, as in the portico added to the <a href=""https://en.wikipedia.org/w/index.php?title=Temple_of_Demeter&amp;action=edit&amp;redlink=1"" class=""new"" title=""Temple of Demeter (page does not exist)"">Temple of Demeter</a> at <a href=""https://en.wikipedia.org/wiki/Eleusis"" title=""Eleusis"">Eleusis</a>, designed by <a href=""https://en.wikipedia.org/wiki/Philo"" title=""Philo"">Philo</a>, the architect of the arsenal at the <a href=""https://en.wikipedia.org/wiki/Peiraeus"" class=""mw-redirect"" title=""Peiraeus"">Peiraeus</a>.<sup id=""cite_ref-25"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-25"">&#91;25&#93;</a></sup></dd>
 
 <div class=""thumb tright""><div class=""thumbinner"" style=""width:222px;""><a href=""https://en.wikipedia.org/wiki/File:Classical_orders_from_the_Encyclopedie.png"" class=""image""><img alt=""Classical orders from the Encyclopedie.png"" src=""//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Classical_orders_from_the_Encyclopedie.png/220px-Classical_orders_from_the_Encyclopedie.png"" decoding=""async"" width=""220"" height=""346"" class=""thumbimage"" srcset=""//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Classical_orders_from_the_Encyclopedie.png/330px-Classical_orders_from_the_Encyclopedie.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Classical_orders_from_the_Encyclopedie.png/440px-Classical_orders_from_the_Encyclopedie.png 2x"" data-file-width=""853"" data-file-height=""1342"" /></a>  <div class=""thumbcaption""><div class=""magnify""><a href=""https://en.wikipedia.org/wiki/File:Classical_orders_from_the_Encyclopedie.png"" class=""internal"" title=""Enlarge""></a></div></div></div></div>"
-"<dt class=""glossary"" id=""doric_order"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Doric_order"" title=""Doric order"">Doric order</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Doric_order"" title=""Doric order"">Doric order</a>"|"
 <dd class=""glossary"">One of the three <a href=""https://en.wikipedia.org/wiki/Classical_order"" title=""Classical order"">orders</a> or organisational systems of Ancient Greek or classical architecture characterised by columns which stood on the flat pavement of a temple without a base, their vertical shafts fluted with parallel concave grooves topped by a smooth <a href=""https://en.wikipedia.org/wiki/Capital_(architecture)"" title=""Capital (architecture)"">capital</a> that flared from the column to meet a square <a href=""https://en.wikipedia.org/wiki/Abacus_(architecture)"" title=""Abacus (architecture)"">abacus</a> at the intersection with the horizontal beam that they carried.</dd>
 "
-"<dt class=""glossary"" id=""dormer"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Dormer"" title=""Dormer"">Dormer</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Dormer"" title=""Dormer"">Dormer</a>"|"
 <dd class=""glossary"">A structural element of a building that protrudes from the plane of a sloping <a href=""https://en.wikipedia.org/wiki/Roof"" title=""Roof"">roof</a> surface. Dormers are used, either in original construction or as later additions, to create usable space in the roof of a building by adding headroom and usually also by enabling addition of windows.</dd>
 "
-"<dt class=""glossary"" id=""dosseret"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Dosseret, or <a href=""https://en.wikipedia.org/wiki/Impost_block"" class=""mw-redirect"" title=""Impost block"">impost block</a> <span id=""Dosseret""></span><span id=""impost_block""></span></dfn></dt>"|"
+"Dosseret, or <a href=""https://en.wikipedia.org/wiki/Impost_block"" class=""mw-redirect"" title=""Impost block"">impost block</a> <span id=""Dosseret""></span><span id=""impost_block""></span>"|"
 <dd class=""glossary"">Cubical block of stone above the capitals in a Byzantine church, used to carry the arches and vault, the springing of which had a superficial area greatly in excess of the column which carried them.<sup id=""cite_ref-26"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-26"">&#91;26&#93;</a></sup></dd>
 "
-"<span id=""Double-depth_plan""></span><dt class=""glossary"" id=""double-depth_plan"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Double-depth plan</dfn></dt>"|"
+"Double-depth plan"|"
 <dd class=""glossary"">A plan for a structure that is two rooms deep but lacking a central corridor.<sup id=""cite_ref-27"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-27"">&#91;27&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""dromos"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Dromos</dfn></dt>"|"
+"Dromos"|"
 <dd class=""glossary"">Entrance passage or avenue leading to a building, tomb or passageway. Those leading to <a href=""https://en.wikipedia.org/wiki/Beehive_tomb"" title=""Beehive tomb"">beehive tombs</a> are enclosed between stone walls and sometimes in-filled between successive uses of the tomb.<sup id=""cite_ref-FOOTNOTEDeurer2011_28-0"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-FOOTNOTEDeurer2011-28"">&#91;28&#93;</a></sup><sup id=""cite_ref-29"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-29"">&#91;29&#93;</a></sup> In ancient Egypt the dromos was a straight, paved avenue flanked by sphinxes.<sup id=""cite_ref-FOOTNOTEDeurer2011_28-1"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-FOOTNOTEDeurer2011-28"">&#91;28&#93;</a></sup><sup id=""cite_ref-30"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-30"">&#91;30&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id="""" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Eave_return"" title=""Eave return"">Eave return</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Eave_return"" title=""Eave return"">Eave return</a>"|"
 <dd class=""glossary"">An element of Classical Revival architecture in American domestic architecture.</dd>
 "
-"<dt class=""glossary"" id="""" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Entablature"" title=""Entablature"">Entablature</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Entablature"" title=""Entablature"">Entablature</a>"|"
 <dd class=""glossary"">A superstructure of moldings and bands which lie horizontally above columns, resting on their capitals.</dd>
 "
-"<dt class=""glossary"" id="""" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Entasis"" title=""Entasis"">Entasis</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Entasis"" title=""Entasis"">Entasis</a>"|"
 <dd class=""glossary"">The application of a convex curve to a surface for aesthetic purposes. Its best-known use is in certain orders of Classical columns that curve slightly as their diameter is decreased from the bottom upward. It also may serve an engineering function regarding strength.</dd>
 "
-"<dt class=""glossary"" id=""ephebeum"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Ephebeum</dfn></dt>"|"
+"Ephebeum"|"
 <dd class=""glossary"">(<i><a href=""https://en.wikipedia.org/wiki/Ancient_Greek_language"" class=""mw-redirect"" title=""Ancient Greek language"">Ancient Greek</a>: <span lang=""grc"">ephebion</span></i>) Large hall in the ancient <a href=""https://en.wikipedia.org/wiki/Palaestra"" title=""Palaestra"">Palaestra</a> furnished with seats, the length of which should be a third larger than the width. It served for the exercises of youths of from sixteen to eighteen years of age.<sup id=""cite_ref-31"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-31"">&#91;31&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""epinaos"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Epinaos</dfn></dt>"|"
+"Epinaos"|"
 <dd class=""glossary"">Open <a href=""https://en.wikipedia.org/wiki/Vestibule_(architecture)"" title=""Vestibule (architecture)"">vestibule</a> behind the <a href=""https://en.wikipedia.org/wiki/Nave"" title=""Nave"">nave</a>. The term is not found in any classic author, but is a modern coinage, originating in Germany, to differentiate the feature from the <a href=""https://en.wikipedia.org/wiki/Opisthodomos"" title=""Opisthodomos"">opisthodomos</a>, which in the <a href=""https://en.wikipedia.org/wiki/Parthenon"" title=""Parthenon"">Parthenon</a> was an enclosed chamber.<sup id=""cite_ref-32"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-32"">&#91;32&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""estrade"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Estrade</dfn></dt>"|"
+"Estrade"|"
 <dd class=""glossary"">French term for a raised platform or <a href=""https://en.wikipedia.org/wiki/Dais"" title=""Dais"">dais</a>. In the <a href=""https://en.wikipedia.org/wiki/Levant"" title=""Levant"">Levant</a>, the estrade of a divan is called a Sopha, from which comes our word 'sofa'.<sup id=""cite_ref-33"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-33"">&#91;33&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""eustyle"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Eustyle</dfn></dt>"|"
+"Eustyle"|"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/Intercolumniation"" title=""Intercolumniation"">intercolumniation</a> defined by <a href=""https://en.wikipedia.org/wiki/Vitruvius"" title=""Vitruvius"">Vitruvius</a> as being of the best proportion, i.e. two and a quarter diameters.<sup id=""cite_ref-34"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-34"">&#91;34&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""facade"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Facade"" title=""Facade"">Facade</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Facade"" title=""Facade"">Facade</a>"|"
 <dd class=""glossary"">An exterior side of a building, usually the front.</dd>
 "
-"<dt class=""glossary"" id=""fanlight"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Fanlight"" title=""Fanlight"">Fanlight</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Fanlight"" title=""Fanlight"">Fanlight</a>"|"
 <dd class=""glossary"">Window, semicircular or semi-elliptical in shape, with glazing bars or tracery sets radiating out like an open fan.</dd>"
-"<dt class=""glossary"" id=""fascia"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Fascia_(architecture)"" title=""Fascia (architecture)"">Fascia</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Fascia_(architecture)"" title=""Fascia (architecture)"">Fascia</a>"|"
 <dd class=""glossary"">Horizontal board attached to the lower end of rafters at the eaves.</dd>"
-"<dt class=""glossary"" id=""feretory"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Feretory</dfn></dt>"|"
+"Feretory"|"
 <dd class=""glossary"">Enclosure or chapel within which the ferreter shrine, or tomb (as in Henry VII.'s chapel), was placed.<sup id=""cite_ref-35"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-35"">&#91;35&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""flushwork"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Flushwork"" title=""Flushwork"">Flushwork</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Flushwork"" title=""Flushwork"">Flushwork</a>"|"
 <dd class=""glossary"">The decorative combination on the same flat plane of <a href=""https://en.wikipedia.org/wiki/Flint"" title=""Flint"">flint</a> and <a href=""https://en.wikipedia.org/wiki/Ashlar"" title=""Ashlar"">ashlar</a> stone.  It is characteristic of medieval buildings, most of the survivors churches, in several areas of Southern England, but especially <a href=""https://en.wikipedia.org/wiki/East_Anglia"" title=""East Anglia"">East Anglia</a>. If the stone projects from a flat flint wall, the term is <b>proudwork</b> – as the stone stands ""proud"" rather than being ""flush"" with the wall.</dd>
 "
-"<dt class=""glossary"" id=""flying_buttress"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Flying_buttress"" title=""Flying buttress"">Flying buttress</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Flying_buttress"" title=""Flying buttress"">Flying buttress</a>"|"
 <dd class=""glossary"">A specific type of <a href=""https://en.wikipedia.org/wiki/Buttress"" title=""Buttress"">buttress</a> usually found on a religious building such as a cathedral.</dd>
 "
-"<dt class=""glossary"" id=""flying_rib"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Flying rib</dfn></dt>"|"
+"Flying rib"|"
 <dd class=""glossary"">An exposed structural beam over the uppermost part of a building which is not otherwise connected to the building at its highest point. A feature of H frame constructed concrete buildings and some modern skyscrapers.</dd>
 "
-"<dt class=""glossary"" id=""footprint"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Footprint</dfn></dt>"|"
+"Footprint"|"
 <dd class=""glossary"">The area on a plane directly beneath a structure, that has the same perimeter as the structure.<sup id=""cite_ref-36"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-36"">&#91;36&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""foot-stall"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Foot-stall</dfn></dt>"|"
+"Foot-stall"|"
 <dd class=""glossary"">The lower part of a pier in architecture. (A literal translation of ""pedestal."")<sup id=""cite_ref-37"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-37"">&#91;37&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""formeret"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Formeret</dfn></dt>"|"
+"Formeret"|"
 <dd class=""glossary"">French term for the wall-rib carrying the web or filling-in of a vault.<sup id=""cite_ref-38"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-38"">&#91;38&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""gable"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Gable"" title=""Gable"">Gable</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Gable"" title=""Gable"">Gable</a>"|"
 <dd class=""glossary"">A triangular portion of an end wall between the edges of a sloping roof.</dd>
 "
-"<dt class=""glossary"" id=""gablets"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Gablets</dfn></dt>"|"
+"Gablets"|"
 <dd class=""glossary"">Triangular terminations to <a href=""https://en.wikipedia.org/wiki/Buttress"" title=""Buttress"">buttresses</a>, much in use in the <a href=""https://en.wikipedia.org/wiki/Early_English_Period"" class=""mw-redirect"" title=""Early English Period"">Early English</a> and <a href=""https://en.wikipedia.org/wiki/Decorated_Gothic"" class=""mw-redirect"" title=""Decorated Gothic"">Decorated periods</a>, after which the buttresses generally terminated in <a href=""https://en.wikipedia.org/wiki/Pinnacle"" title=""Pinnacle"">pinnacles</a>. The Early English gablets are generally plain, and very sharp in pitch. In the Decorated period they are often enriched with paneling and <a href=""https://en.wikipedia.org/wiki/Crocket"" title=""Crocket"">crockets</a>. They are sometimes finished with small crosses, but more often with finials.<sup id=""cite_ref-39"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-39"">&#91;39&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""gadrooning"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Gadrooning"" title=""Gadrooning"">Gadrooning</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Gadrooning"" title=""Gadrooning"">Gadrooning</a>"|"
 <dd class=""glossary"">Carved or curved molding used in architecture and interior design as decorative motif, often consisting of flutes which are inverted and curved.  Popular during the Italian Renaissance.<sup id=""cite_ref-40"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-40"">&#91;40&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""galletting"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Galletting"" class=""mw-redirect"" title=""Galletting"">Galletting</a> (also Garretting) <span id=""galletting""></span><span id=""garretting""></span></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Galletting"" class=""mw-redirect"" title=""Galletting"">Galletting</a> (also Garretting) <span id=""galletting""></span><span id=""garretting""></span>"|"
 <dd class=""glossary"">The process in which the gallets or small splinters of stone are inserted in the joints of coarse masonry to protect the mortar joints. They are stuck in while the mortar is wet.<sup id=""cite_ref-41"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-41"">&#91;41&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""gambrel"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Gambrel"" title=""Gambrel"">Gambrel</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Gambrel"" title=""Gambrel"">Gambrel</a>"|"
 <dd class=""glossary"">A symmetrical two-sided roof with two slopes on each side.</dd>
 "
-"<dt class=""glossary"" id=""gargoyle"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Gargoyle"" title=""Gargoyle"">Gargoyle</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Gargoyle"" title=""Gargoyle"">Gargoyle</a>"|"
 <dd class=""glossary"">A carved stone grotesque with a spout designed to convey water from a roof.</dd>
 "
-"<dt class=""glossary"" id=""garret"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Garret"" title=""Garret"">Garret</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Garret"" title=""Garret"">Garret</a>"|"
 <dd class=""glossary"">A habitable attic at the top of a larger building, generally with sloping walls, and with skylights or dormer windows.</dd>
 "
-"<dt class=""glossary"" id=""gauged_brickwork"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Gauged brickwork (also rubbed brickwork) <span id=""gauged_brickwork""></span><span id=""rubbed_brickwork""></span></dfn></dt>"|"
+"Gauged brickwork (also rubbed brickwork) <span id=""gauged_brickwork""></span><span id=""rubbed_brickwork""></span>"|"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/Brickwork"" title=""Brickwork"">Brickwork</a> constructed of soft bricks rubbed to achieve a fine smooth finish with narrow joints between courses.</dd>
 "
-"<dt class=""glossary"" id=""gazebo"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Gazebo"" title=""Gazebo"">Gazebo</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Gazebo"" title=""Gazebo"">Gazebo</a>"|"
 <dd class=""glossary"">A freestanding <a href=""https://en.wikipedia.org/wiki/Pavilion"" title=""Pavilion"">pavilion</a>  structure often found in parks, gardens and public areas.</dd>
 "
-"<dt class=""glossary"" id=""geison"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Geison"" title=""Geison"">Geison</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Geison"" title=""Geison"">Geison</a>"|"
 <dd class=""glossary"">(Greek: γεῖσον – often interchangeable with <a href=""https://en.wikipedia.org/wiki/Cornice"" title=""Cornice"">cornice</a>) the part of the <a href=""https://en.wikipedia.org/wiki/Entablature"" title=""Entablature"">entablature</a> that projects outward from the top of the frieze in the <a href=""https://en.wikipedia.org/wiki/Doric_order"" title=""Doric order"">Doric order</a> and from the top of the frieze course of the <a href=""https://en.wikipedia.org/wiki/Ionic_order"" title=""Ionic order"">Ionic</a> and <a href=""https://en.wikipedia.org/wiki/Corinthian_order"" title=""Corinthian order"">Corinthian</a> orders; it forms the outer edge of the roof on the sides of a structure with a sloped roof.</dd>
 "
-"<dt class=""glossary"" id=""geodesic_dome"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Geodesic_dome"" title=""Geodesic dome"">Geodesic dome</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Geodesic_dome"" title=""Geodesic dome"">Geodesic dome</a>"|"
 <dd class=""glossary"">A structure formed of straight wood or metal members between points (or nodes) on a circular sphere (or part thereof) that are ""pinned"" at each connection point to two or more other members that transfer loads imposed on the structure to the base of the structure. The geometric areas between individual members may support a ""skin"" if the structure is to be enclosed.  A ""regular"" geodesic structure have members of equal length but strengths of members may vary depending on location in the geodesic ""grid"".</dd>
 "
-"<dt class=""glossary"" id=""grotto"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Grotto"" title=""Grotto"">Grotto</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Grotto"" title=""Grotto"">Grotto</a>"|"
 <dd class=""glossary"">An exterior submerged room that is decorated with landscaping or art in which has no exterior exit or entrance. One enters and exits only through the building.</dd>
 "
-"<dt class=""glossary"" id=""hip_roof"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Hip_roof"" title=""Hip roof"">Hip roof</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Hip_roof"" title=""Hip roof"">Hip roof</a>"|"
 <dd class=""glossary"">A type of roof where all sides slope downwards from the ridge to the eaves.</dd>
 "
-"<dt class=""glossary"" id=""hyphen"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Hyphen</dfn></dt>"|"
+"Hyphen"|"
 <dd class=""glossary"">Possibly from an older term ""heifunon""<sup id=""cite_ref-name_42-0"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-name-42"">&#91;42&#93;</a></sup> – a structural section connecting the main portion of a building with its projecting ""dependencies"" or wings.</dd>
 "
-"<dt class=""glossary"" id=""imperial_roof_decoration"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Imperial_roof_decoration"" title=""Imperial roof decoration"">Imperial roof decoration</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Imperial_roof_decoration"" title=""Imperial roof decoration"">Imperial roof decoration</a>"|"
 <dd class=""glossary"">A row of small figures along the unions of the roofs of Chinese official buildings.</dd>
 "
-"<dt class=""glossary"" id=""interlaced_arches"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Interlaced arches</dfn></dt>"|"
+"Interlaced arches"|"
 <dd class=""glossary"">A scheme of decoration employed in <a href=""https://en.wikipedia.org/wiki/Romanesque_architecture"" title=""Romanesque architecture"">Romanesque</a> and <a href=""https://en.wikipedia.org/wiki/Gothic_architecture"" title=""Gothic architecture"">Gothic</a> architecture, where <a href=""https://en.wikipedia.org/wiki/Arch"" title=""Arch"">arches</a> are thrown from alternate <a href=""https://en.wikipedia.org/wiki/Pier_(architecture)"" title=""Pier (architecture)"">piers</a>, interlacing or intersecting one another. In the former case, the first arch <a href=""https://en.wikipedia.org/wiki/Molding_(decorative)"" title=""Molding (decorative)"">mould</a> is carried alternately over and under the second, in the latter the mouldings actually intersect and stop one another.<sup id=""cite_ref-43"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-43"">&#91;43&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""ionic_order"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Ionic_order"" title=""Ionic order"">Ionic order</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Ionic_order"" title=""Ionic order"">Ionic order</a>"|"
 <dd class=""glossary"">One of the three <a href=""https://en.wikipedia.org/wiki/Classical_order"" title=""Classical order"">orders</a> or organisational systems of Ancient Greek or classical architecture characterised by columns which stood on the flat pavement of a temple with a base, their vertical shafts fluted with parallel concave grooves topped by a <a href=""https://en.wikipedia.org/wiki/Capital_(architecture)"" title=""Capital (architecture)"">capital</a> with <a href=""https://en.wikipedia.org/wiki/Volute"" title=""Volute"">volutes</a>, that flared from the column to meet a rectangular <a href=""https://en.wikipedia.org/wiki/Abacus_(architecture)"" title=""Abacus (architecture)"">abacus</a> with carved <a href=""https://en.wikipedia.org/wiki/Ovolo"" title=""Ovolo"">ovolo</a> moulding, at the intersection with the horizontal beam that they carried.</dd>
 "
-"<dt class=""glossary"" id=""jagati"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Jagati_(temple)"" title=""Jagati (temple)"">Jagati</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Jagati_(temple)"" title=""Jagati (temple)"">Jagati</a>"|"
 <dd class=""glossary"">A raised surface, platform or terrace upon which an <a href=""https://en.wikipedia.org/wiki/India"" title=""India"">Indian</a> temple is placed.</dd>
 "
-"<dt class=""glossary"" id=""jettying"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Jettying"" title=""Jettying"">Jettying</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Jettying"" title=""Jettying"">Jettying</a>"|"
 <dd class=""glossary"">A building technique used in medieval timber frame buildings in which an upper floor projects beyond the dimensions of the floor below.</dd>
 "
-"<dt class=""glossary"" id=""keystone"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Keystone_(architecture)"" title=""Keystone (architecture)"">Keystone</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Keystone_(architecture)"" title=""Keystone (architecture)"">Keystone</a>"|"
 <dd class=""glossary"">The architectural piece at the crown of a vault or arch and marks its apex, locking the other pieces into position.</dd>
 "
-"<dt class=""glossary"" id=""lacunar"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Lacunar</dfn></dt>"|"
+"Lacunar"|"
 <dd class=""glossary"">Latin name in architecture for paneled or <a href=""https://en.wikipedia.org/wiki/Coffered_ceiling"" class=""mw-redirect"" title=""Coffered ceiling"">coffered ceiling</a>, <a href=""https://en.wikipedia.org/wiki/Soffit"" title=""Soffit"">soffit</a>, or <a href=""https://en.wikipedia.org/wiki/Vault_(architecture)"" title=""Vault (architecture)"">vault</a> adorned with a pattern of recessed <a href=""https://en.wikipedia.org/wiki/Panel_painting"" title=""Panel painting"">panels</a>.<sup id=""cite_ref-44"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-44"">&#91;44&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""latticework"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Latticework"" title=""Latticework"">Latticework</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Latticework"" title=""Latticework"">Latticework</a>"|"
 <dd class=""glossary"">An ornamental, lattice framework consisting of small strips in a criss-crossed pattern.</dd>
 "
-"<dt class=""glossary"" id=""light"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Light_(window)"" class=""mw-redirect"" title=""Light (window)"">Light</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Light_(window)"" class=""mw-redirect"" title=""Light (window)"">Light</a>"|"
 <dd class=""glossary"">The opening(s) in a window between mullions and muntins through which light enters an interior space.   A 6:6 window is a window that has six lights in the upper sash and six in the lower sash.</dd>
 "
-"<dt class=""glossary"" id=""lightning_rod"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Lightning_rod"" title=""Lightning rod"">Lightning rod</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Lightning_rod"" title=""Lightning rod"">Lightning rod</a>"|"
 <dd class=""glossary"">A conductive bar(s) of copper or zinc coated steel mounted on the ridge or a roof or on the parapet of a building connected to a large capacity conductor, usually copper, routed to a ground rod(s) driven into the earth for the purpose of safely directing electrical charges caused by a lightning strike to the ground to avoid damage or fire to the structure.</dd>
 "
-"<dt class=""glossary"" id=""lintel"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Lintel_(architecture)"" class=""mw-redirect"" title=""Lintel (architecture)"">Lintel</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Lintel_(architecture)"" class=""mw-redirect"" title=""Lintel (architecture)"">Lintel</a>"|"
 <dd class=""glossary"">A horizontal block that spans the space between two supports usually over an opening such as a window or door.</dd>
 "
-"<dt class=""glossary"" id=""loculus"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Loculus_(architecture)"" title=""Loculus (architecture)"">Loculus</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Loculus_(architecture)"" title=""Loculus (architecture)"">Loculus</a>"|"
 <dd class=""glossary"">An architectural niche that houses a body, as in a catacomb, hypogeum, mausoleum or other place of entombment.</dd>
 "
-"<dt class=""glossary"" id=""loggia"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Loggia"" title=""Loggia"">Loggia</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Loggia"" title=""Loggia"">Loggia</a>"|"
 <dd class=""glossary"">A gallery formed by a colonnade open on one or more sides. The space is often located on an upper floor of a building overlooking an open court or garden.</dd>
 "
-"<dt class=""glossary"" id=""lunette"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Lunette"" title=""Lunette"">Lunette</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Lunette"" title=""Lunette"">Lunette</a>"|"
 <dd class=""glossary"">A half-moon shaped space, either masonry or void.</dd>
 "
-"<dt class=""glossary"" id=""mandapa"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Mandapa"" title=""Mandapa"">Mandapa</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Mandapa"" title=""Mandapa"">Mandapa</a>"|"
 <dd class=""glossary"">In <a href=""https://en.wikipedia.org/wiki/Indian_architecture"" class=""mw-redirect"" title=""Indian architecture"">Indian architecture</a>, a pillared outdoor hall or <a href=""https://en.wikipedia.org/wiki/Pavilion"" title=""Pavilion"">pavilion</a> for public rituals.</dd>
 "
-"<dt class=""glossary"" id=""maqsurah"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Maqsurah"" title=""Maqsurah"">Maqsurah</a> (maqsura) <span id=""maqsurah""></span><span id=""maqsura""></span></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Maqsurah"" title=""Maqsurah"">Maqsurah</a> (maqsura) <span id=""maqsurah""></span><span id=""maqsura""></span>"|"
 <dd class=""glossary"">In <a href=""https://en.wikipedia.org/wiki/Islamic_architecture"" title=""Islamic architecture"">Islamic architecture</a>, the sanctuary or praying-chamber in a mosque, sometimes enclosed with a screen of <a href=""https://en.wikipedia.org/wiki/Lattice-work"" class=""mw-redirect"" title=""Lattice-work"">lattice-work</a>; occasionally, a similar enclosure round a tomb.</dd>
 "
-"<dt class=""glossary"" id=""mansard_roof"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Mansard_roof"" title=""Mansard roof"">Mansard roof</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Mansard_roof"" title=""Mansard roof"">Mansard roof</a>"|"
 <dd class=""glossary"">(French roof) A <a href=""https://en.wikipedia.org/wiki/Hip_roof"" title=""Hip roof"">curb hip roof</a> in which each face has two slopes, the lower one steeper than the upper; from the French <i>mansarde</i> after the accomplished 17th-century French architect noted for using (not inventing) this style, <a href=""https://en.wikipedia.org/wiki/Fran%C3%A7ois_Mansart"" title=""François Mansart"">François Mansart</a>, died 1666.</dd>
 "
-"<dt class=""glossary"" id=""marriage_stone"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Marriage_stone"" title=""Marriage stone"">Marriage stone</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Marriage_stone"" title=""Marriage stone"">Marriage stone</a>"|"
 <dd class=""glossary"">A stone lintel, usually carved, with a marriage date.</dd>
 "
-"<dt class=""glossary"" id=""mascaron"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Mascaron_(architecture)"" title=""Mascaron (architecture)"">Mascaron</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Mascaron_(architecture)"" title=""Mascaron (architecture)"">Mascaron</a>"|"
 <dd class=""glossary"">A mascaron ornament is a face, usually human, sometimes frightening or chimeric, used as a decorative element.</dd>
 "
-"<dt class=""glossary"" id=""meander"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Meander_(art)"" title=""Meander (art)"">Meander</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Meander_(art)"" title=""Meander (art)"">Meander</a>"|"
 <dd class=""glossary"">Decorative border made by a repeated linear motif.</dd>
 "
-"<dt class=""glossary"" id=""mihrab"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Mihrab"" title=""Mihrab"">Mihrab</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Mihrab"" title=""Mihrab"">Mihrab</a>"|"
 <dd class=""glossary"">In <a href=""https://en.wikipedia.org/wiki/Islamic_architecture"" title=""Islamic architecture"">Islamic architecture</a>, a semicircular <a href=""https://en.wikipedia.org/wiki/Niche_(architecture)"" title=""Niche (architecture)"">niche</a> in the wall of a mosque that indicates the direction of prayer.</dd>
 "
-"<dt class=""glossary"" id=""minaret"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Minaret"" title=""Minaret"">Minaret</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Minaret"" title=""Minaret"">Minaret</a>"|"
 <dd class=""glossary"">In <a href=""https://en.wikipedia.org/wiki/Islamic_architecture"" title=""Islamic architecture"">Islamic architecture</a>, a tall <a href=""https://en.wikipedia.org/wiki/Spire"" title=""Spire"">spire</a> with a conical or onion-shaped crown, on or near a mosque, that is used by the imam to give the prayer call.</dd>
 "
-"<dt class=""glossary"" id=""modillion"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Modillion"" title=""Modillion"">Modillion</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Modillion"" title=""Modillion"">Modillion</a>"|"
 <dd class=""glossary"">Enriched block or horizontal bracket generally found under the cornice and above the bedmold of the Corinthian entablature. It is probably so called because of its arrangement in regulated distances.<sup id=""cite_ref-45"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-45"">&#91;45&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""molding"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Molding_(decorative)"" title=""Molding (decorative)"">Molding</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Molding_(decorative)"" title=""Molding (decorative)"">Molding</a>"|"
 <dd class=""glossary"">Decorative finishing strip.</dd>
 "
-"<dt class=""glossary"" id=""monotriglyph"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Monotriglyph</dfn></dt>"|"
+"Monotriglyph"|"
 <dd class=""glossary"">Interval of the <a href=""https://en.wikipedia.org/wiki/Intercolumniation"" title=""Intercolumniation"">intercolumniation</a> of the <a href=""https://en.wikipedia.org/wiki/Doric_order"" title=""Doric order"">Doric</a> column, which is observed by the intervention of one <a href=""https://en.wikipedia.org/wiki/Triglyph"" title=""Triglyph"">triglyph</a> only between the triglyphs which come over the axes of the columns. This is the usual arrangement, but in the <a href=""https://en.wikipedia.org/wiki/Propylaea"" title=""Propylaea"">Propylaea</a> at Athens there are two triglyphs over the central intercolumniation, in order to give increased width to the roadway, up which chariots and beasts of sacrifice ascended.<sup id=""cite_ref-46"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-46"">&#91;46&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""mullion"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Mullion"" title=""Mullion"">Mullion</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Mullion"" title=""Mullion"">Mullion</a>"|"
 <dd class=""glossary"">Vertical bar of wood, metal or stone which separates two or more windows in a series.</dd>
 "
-"<dt class=""glossary"" id=""muntin"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Muntin</dfn></dt>A vertical or horizontal piece that divides a pane of glass into two or more panes or lites in a window.<dt class=""glossary"" id=""muqarnas"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Muqarnas"" title=""Muqarnas"">Muqarnas</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Muqarnas"" title=""Muqarnas"">Muqarnas</a>"|"
 <dd class=""glossary"">Type of decorative corbel used in <a href=""https://en.wikipedia.org/wiki/Islamic_architecture"" title=""Islamic architecture"">Islamic architecture</a> that in some circumstances, resembles stalactites.</dd>
 "
-"<dt class=""glossary"" id=""mutule"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Mutule <span id=""Mutule""></span></dfn></dt>"|"
+"Mutule <span id=""Mutule""></span>"|"
 <dd class=""glossary"">Rectangular block under the <a href=""https://en.wikipedia.org/wiki/Soffit"" title=""Soffit"">soffit</a> of the cornice of the Greek Doric temple, which is studded with <a href=""https://en.wikipedia.org/wiki/Guttae"" class=""mw-redirect"" title=""Guttae"">guttae</a>. It is supposed to represent the piece of timber through which the wooden pegs were driven in order to hold the rafter in position, and it follows the <a href=""https://en.wikipedia.org/wiki/Cornice"" title=""Cornice"">sloping rake</a> of the roof. In the Roman Doric order the mutule was horizontal, with sometimes a crowning fillet, so that it virtually fulfilled the purpose of the modillion in the Corinthian cornice.<sup id=""cite_ref-47"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-47"">&#91;47&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""narthex"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Narthex"" title=""Narthex"">Narthex</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Narthex"" title=""Narthex"">Narthex</a>"|"
 <dd class=""glossary"">An enclosed passage between the main entrance and the <a href=""https://en.wikipedia.org/wiki/Nave"" title=""Nave"">nave</a> of a church.</dd>
 "
-"<dt class=""glossary"" id=""nave"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Nave"" title=""Nave"">Nave</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Nave"" title=""Nave"">Nave</a>"|"
 <dd class=""glossary"">The main body of a church where the congregants are usually seated. It provides the central approach to the high <a href=""https://en.wikipedia.org/wiki/Altar"" title=""Altar"">altar</a>.</dd>
 "
-"<dt class=""glossary"" id=""newel"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Newel"" title=""Newel"">Newel</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Newel"" title=""Newel"">Newel</a>"|"
 <dd class=""glossary"">The central supporting pillar of a spiral staircase. It can also refer to an upright post that supports the handrail of a stair railing and forms the lower, upper or an intermediate terminus of a stair railing usually at a landing.</dd>
 "
-"<dt class=""glossary"" id=""niche"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Niche_(architecture)"" title=""Niche (architecture)"">Niche</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Niche_(architecture)"" title=""Niche (architecture)"">Niche</a>"|"
 <dd class=""glossary"">In classical architecture is an <a href=""https://en.wikipedia.org/wiki/Exedra"" title=""Exedra"">exedra</a> or an <a href=""https://en.wikipedia.org/wiki/Apse"" title=""Apse"">apse</a> that has been reduced in size, retaining the half-dome heading usual for an apse.</dd>
 "
-"<dt class=""glossary"" id=""oculus"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Oculus"" title=""Oculus"">Oculus</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Oculus"" title=""Oculus"">Oculus</a>"|"
 <dd class=""glossary"">A circular opening in the center of a dome such as the one in the roof of the Pantheon in Rome or in a wall.</dd>
 "
-"<dt class=""glossary"" id=""oillets"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Oillets</dfn></dt>"|"
+"Oillets"|"
 <dd class=""glossary"">Arrow slits in the walls of medieval fortifications, but more strictly applied to the round hole or circle with which the openings terminate. The same term is applied to the small circles inserted in the tracery-head of the windows of the Decorated and Perpendicular periods, sometimes varied with trefoils and quatrefoils.<sup id=""cite_ref-48"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-48"">&#91;48&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""onion_dome"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Onion_dome"" title=""Onion dome"">Onion dome</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Onion_dome"" title=""Onion dome"">Onion dome</a>"|"
 <dd class=""glossary"">A dome whose shape resembles an onion.</dd>
 "
-"<dt class=""glossary"" id=""order"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Order_(mouldings)"" title=""Order (mouldings)"">Order</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Order_(mouldings)"" title=""Order (mouldings)"">Order</a>"|"
 <dd class=""glossary"">A term for a standard arrangement of architectural features; most often refers to the three traditional <a href=""https://en.wikipedia.org/wiki/Classical_order"" title=""Classical order"">classical orders</a> of Western architecture: the <a href=""https://en.wikipedia.org/wiki/Doric_order"" title=""Doric order"">Doric order</a>, <a href=""https://en.wikipedia.org/wiki/Ionic_order"" title=""Ionic order"">Ionic order</a> and <a href=""https://en.wikipedia.org/wiki/Corinthian_order"" title=""Corinthian order"">Corinthian order</a>, though there are others.  Can also refer to types of mouldings most often found in Romanesque and <a href=""https://en.wikipedia.org/wiki/Gothic_architecture"" title=""Gothic architecture"">Gothic arches</a>.</dd>
 "
-"<dt class=""glossary"" id=""orthostates"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Orthostates"" title=""Orthostates"">Orthostates</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Orthostates"" title=""Orthostates"">Orthostates</a>"|"
 <dd class=""glossary"">(<a href=""https://en.wikipedia.org/wiki/Greek_language"" title=""Greek language"">Greek</a>: ὀρθοστάτης, standing upright) – Greek architecture term for the lowest course of masonry of the external walls of the <a href=""https://en.wikipedia.org/wiki/Cella"" title=""Cella"">naos</a> or <a href=""https://en.wikipedia.org/wiki/Cella"" title=""Cella"">cella</a>, consisting of vertical slabs of stone or marble equal in height to two or three of the horizontal courses which constitute the inner part of the wall.<sup id=""cite_ref-49"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-49"">&#91;49&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""orthostyle"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Orthostyle</dfn></dt>"|"
+"Orthostyle"|"
 <dd class=""glossary"">(<a href=""https://en.wikipedia.org/wiki/Greek_language"" title=""Greek language"">Greek</a>: ὃρθος, straight, and στῦλος, a column) – a range of columns placed in a straight row, as for instance those of the portico or flanks of a classic temple.<sup id=""cite_ref-50"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-50"">&#91;50&#93;</a></sup></dd>
 
 <div class=""thumb tright""><div class=""thumbinner"" style=""width:222px;""><a href=""https://en.wikipedia.org/wiki/File:Screen_MoorhayesChapel_CullomptonChurch_Devon.PNG"" class=""image""><img alt="""" src=""//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Screen_MoorhayesChapel_CullomptonChurch_Devon.PNG/220px-Screen_MoorhayesChapel_CullomptonChurch_Devon.PNG"" decoding=""async"" width=""220"" height=""150"" class=""thumbimage"" srcset=""//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Screen_MoorhayesChapel_CullomptonChurch_Devon.PNG/330px-Screen_MoorhayesChapel_CullomptonChurch_Devon.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Screen_MoorhayesChapel_CullomptonChurch_Devon.PNG/440px-Screen_MoorhayesChapel_CullomptonChurch_Devon.PNG 2x"" data-file-width=""3599"" data-file-height=""2459"" /></a>  <div class=""thumbcaption""><div class=""magnify""><a href=""https://en.wikipedia.org/wiki/File:Screen_MoorhayesChapel_CullomptonChurch_Devon.PNG"" class=""internal"" title=""Enlarge""></a></div><a href=""https://en.wikipedia.org/wiki/Parclose_screen"" title=""Parclose screen"">Parclose screen</a>, c. 1530, of the <a href=""https://en.wikipedia.org/wiki/Moor_Hayes"" title=""Moor Hayes"">Moorhayes</a> Chapel, <a href=""https://en.wikipedia.org/wiki/Cullompton"" title=""Cullompton"">Cullompton</a> Church, Devon, England</div></div></div>
 "
-"<dt class=""glossary"" id=""panelling"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Panelling"" title=""Panelling"">Panelling</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Panelling"" title=""Panelling"">Panelling</a>"|"
 <dd class=""glossary"">Is a millwork wall covering constructed from rigid or semi-rigid components. These are traditionally interlocking wood, but could be plastic or other materials.
 
 Panelling was developed in antiquity to make rooms in stone buildings more comfortable. The panels served to insulate the room from the cold stone. In more modern buildings, such panelling is often installed for decorative purposes. Panelling, such as wainscoting and boiserie in particular, may be extremely ornate and is particularly associated with seventeenth and eighteenth century interior design, Victorian architecture in Britain, and its international contemporaries.</dd>
 "
-"<dt class=""glossary"" id=""parapet"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Parapet"" title=""Parapet"">Parapet</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Parapet"" title=""Parapet"">Parapet</a>"|"
 <dd class=""glossary"">A low wall built up above the level of a roof, to hide the roof or to provide protection against falling, and similar structures associated with balconies, bridges etc.<sup id=""cite_ref-51"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-51"">&#91;51&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""parclose_screen"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Parclose_screen"" title=""Parclose screen"">Parclose screen</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Parclose_screen"" title=""Parclose screen"">Parclose screen</a>"|"
 <dd class=""glossary"">Screen or railing used to enclose a <a href=""https://en.wikipedia.org/wiki/Chantry_chapel"" class=""mw-redirect"" title=""Chantry chapel"">chantry chapel</a>, tomb or <a href=""https://en.wikipedia.org/wiki/Manor"" title=""Manor"">manorial chapel</a>, in a church, and for the space thus enclosed.<sup id=""cite_ref-52"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-52"">&#91;52&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""pavilion"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Pavilion"" title=""Pavilion"">Pavilion</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Pavilion"" title=""Pavilion"">Pavilion</a>"|"
 <dd class=""glossary"">A free standing structure near the main building or an ending structure on building wings.</dd>
 "
-"<dt class=""glossary"" id=""pedestal"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Pedestal"" title=""Pedestal"">Pedestal</a> (also <a href=""https://en.wikipedia.org/wiki/Plinth"" class=""mw-redirect"" title=""Plinth"">Plinth</a>) <span id=""pedestal""></span><span id=""plinth""></span></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Pedestal"" title=""Pedestal"">Pedestal</a> (also <a href=""https://en.wikipedia.org/wiki/Plinth"" class=""mw-redirect"" title=""Plinth"">Plinth</a>) <span id=""pedestal""></span><span id=""plinth""></span>"|"
 <dd class=""glossary"">The base or support on which a statue, obelisk, or column is mounted. A plinth is a lower terminus of the face trim on a door that is thicker and often wider than the trim which it augments.</dd>
 "
-"<dt class=""glossary"" id=""pediment"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Pediment"" title=""Pediment"">Pediment</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Pediment"" title=""Pediment"">Pediment</a>"|"
 <dd class=""glossary"">(Gr. ἀετός, Lat. <i>fastigium</i>, Fr. <i>ponton</i>), in classic architecture the triangular-shaped portion of the wall above the cornice which formed the termination of the roof behind it. The projecting mouldings of the cornice which surround it enclose the tympanum, which is sometimes decorated with sculpture.</dd>
 "
-"<dt class=""glossary"" id=""pelmet"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Pelmet"" title=""Pelmet"">Pelmet</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Pelmet"" title=""Pelmet"">Pelmet</a>"|"
 <dd class=""glossary"">A framework placed above a window.</dd>
 "
-"<dt class=""glossary"" id=""pendentive"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Pendentive"" title=""Pendentive"">Pendentive</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Pendentive"" title=""Pendentive"">Pendentive</a>"|"
 <dd class=""glossary"">Three-dimensional <a href=""https://en.wikipedia.org/wiki/Spandrels"" class=""mw-redirect"" title=""Spandrels"">spandrels</a> supporting the weight of a dome over a square or rectangular base.</dd>
 "
-"<dt class=""glossary"" id=""peripteral"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Peripteros"" title=""Peripteros"">Peripteral</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Peripteros"" title=""Peripteros"">Peripteral</a>"|"
 <dd class=""glossary"">A temple or other structure surrounded on all sides by columns forming a continuous <a href=""https://en.wikipedia.org/wiki/Portico"" title=""Portico"">portico</a> at the distance of one or two <a href=""https://en.wikipedia.org/wiki/Intercolumniation"" title=""Intercolumniation"">intercolumniations</a> from the walls of the <a href=""https://en.wikipedia.org/wiki/Cella"" title=""Cella"">naos</a> or <a href=""https://en.wikipedia.org/wiki/Cella"" title=""Cella"">cella</a>. Almost all the Greek temples were peripteral, whether Doric, Ionic, or Corinthian.</dd>
 "
-"<span id=""Peristasis""></span><dt class=""glossary"" id=""peristasis"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Peristasis_(architecture)"" title=""Peristasis (architecture)"">Peristasis</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Peristasis_(architecture)"" title=""Peristasis (architecture)"">Peristasis</a>"|"
 <dd class=""glossary"">The Peristasis (Greek: Περίστασις) was a four-sided porch or hall of columns surrounding the <a href=""https://en.wikipedia.org/wiki/Cella"" title=""Cella"">cella</a> in an ancient Greek <a href=""https://en.wikipedia.org/wiki/Peripteros"" title=""Peripteros"">peripteros</a> temple (see also <a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#Peristyle"">Peristyle</a>). In ecclesial architecture, it is also used of the area between the baluster of a Catholic church and the high altar (what is usually called the <a href=""https://en.wikipedia.org/wiki/Sanctuary"" title=""Sanctuary"">sanctuary</a> or <a href=""https://en.wikipedia.org/wiki/Chancel"" title=""Chancel"">chancel</a>).</dd>
 "
-"<span id=""Peristyle""></span><dt class=""glossary"" id=""peristyle"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Peristyle"" title=""Peristyle"">Peristyle</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Peristyle"" title=""Peristyle"">Peristyle</a>"|"
 <dd class=""glossary"">a continuous porch of columns surrounding a courtyard or garden (see also <a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#Peristasis"">Peristasis</a>). In ecclesial architecture, the term <a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cloister"" title=""Glossary of architecture"">cloister</a> is used.</dd>
 "
-"<dt class=""glossary"" id=""phiale"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Phiale_(building)"" title=""Phiale (building)"">Phiale</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Phiale_(building)"" title=""Phiale (building)"">Phiale</a>"|"
 <dd class=""glossary"">A building or columned arcade around a fountain.</dd>
 "
-"<dt class=""glossary"" id=""piano_nobile"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Piano_nobile"" title=""Piano nobile"">Piano nobile</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Piano_nobile"" title=""Piano nobile"">Piano nobile</a>"|"
 <dd class=""glossary"">The principal floor of a large house, built in the style of <a href=""https://en.wikipedia.org/wiki/Renaissance_architecture"" title=""Renaissance architecture"">renaissance architecture</a>.</dd>
 "
-"<dt class=""glossary"" id=""pier"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Pier_(architecture)"" title=""Pier (architecture)"">Pier</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Pier_(architecture)"" title=""Pier (architecture)"">Pier</a>"|"
 <dd class=""glossary"">An upright support for a superstructure, such as an arch or bridge.</dd>
 "
-"<dt class=""glossary"" id=""pilaster"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Pilaster"" title=""Pilaster"">Pilaster</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Pilaster"" title=""Pilaster"">Pilaster</a>"|"
 <dd class=""glossary"">A slightly-projecting column built into or applied to the face of a wall.</dd>
 "
-"<dt class=""glossary"" id=""planceer"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Planceer or Planchier <span id=""planceer""></span><span id=""planchier""></span></dfn></dt>"|"
+"Planceer or Planchier <span id=""planceer""></span><span id=""planchier""></span>"|"
 <dd class=""glossary"">Building element sometimes used in the same sense as a <a href=""https://en.wikipedia.org/wiki/Soffit"" title=""Soffit"">soffit</a>, but more correctly applied to the soffit of the <a href=""https://en.wikipedia.org/wiki/Corona_(disambiguation)"" class=""mw-redirect mw-disambig"" title=""Corona (disambiguation)"">corona</a> in a <a href=""https://en.wikipedia.org/wiki/Cornice"" title=""Cornice"">cornice</a>.<sup id=""cite_ref-53"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-53"">&#91;53&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""plate_girder"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Plate_girder"" class=""mw-redirect"" title=""Plate girder"">Plate girder</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Plate_girder"" class=""mw-redirect"" title=""Plate girder"">Plate girder</a>"|"
 <dd class=""glossary"">A steel girder formed from a vertical center web of steel plate with steel angles forming the top and bottom flanges welded, bolted or riveted to the web. Some deep plate girders also may have vertical stiffeners (angles) attached to the web to resist crippling (horizontal failure) of the web.</dd>
 "
-"<dt class=""glossary"" id=""plinth"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Plinth"" class=""mw-redirect"" title=""Plinth"">Plinth</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Plinth"" class=""mw-redirect"" title=""Plinth"">Plinth</a>"|"
 <dd class=""glossary"">The base or platform upon which a column, pedestal, statue, monument or structure rests. A plinth is a lower terminus of the face trim on a door that is thicker and often wider than the trim which it augments</dd>
 "
-"<dt class=""glossary"" id=""poppy_heads"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Poppyhead_(carving)"" title=""Poppyhead (carving)"">Poppyheads</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Poppyhead_(carving)"" title=""Poppyhead (carving)"">Poppyheads</a>"|"
 <dd class=""glossary"">Finials or other ornaments which terminate the tops of bench ends, either to pews or stalls. They are sometimes small human heads, sometimes richly carved images, knots of foliage or finials, and sometimes fleurs-de-lis simply cut out of the thickness of the bench end and chamfered. The term is probably derived from the French <i>poupee</i> doll or puppet used also in this sense, or from the flower, from a resemblance in shape.<sup id=""cite_ref-54"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-54"">&#91;54&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""portcullis"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Portcullis"" title=""Portcullis"">Portcullis</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Portcullis"" title=""Portcullis"">Portcullis</a>"|"
 <dd class=""glossary"">Heavy wooden or metallic grid vertically-sliding down and thus blocking the main gateway of a <a href=""https://en.wikipedia.org/wiki/Middle_Ages"" title=""Middle Ages"">medieval</a> <a href=""https://en.wikipedia.org/wiki/Castle"" title=""Castle"">castle</a> or fortification.</dd>
 "
-"<dt class=""glossary"" id=""porte-cochère"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Porte-coch%C3%A8re"" title=""Porte-cochère"">Porte-cochère</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Porte-coch%C3%A8re"" title=""Porte-cochère"">Porte-cochère</a>"|"
 <dd class=""glossary"">A porch- or portico-like structure at a main or secondary entrance to a building through which a horse and carriage (or motor vehicle) can pass in order for the occupants to alight under cover, protected from the weather.</dd>
 "
-"<dt class=""glossary"" id=""portico"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Portico"" title=""Portico"">Portico</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Portico"" title=""Portico"">Portico</a>"|"
 <dd class=""glossary"">A series of columns or arches in front of a building, generally as a covered walkway.</dd>
 "
-"<dt class=""glossary"" id=""prick_post"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Prick post</dfn></dt>"|"
+"Prick post"|"
 <dd class=""glossary"">Old architectural name given sometimes to the queen posts of a roof, and sometimes to the filling in quarters in framing.<sup id=""cite_ref-55"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-55"">&#91;55&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""prostyle"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Prostyle"" title=""Prostyle"">Prostyle</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Prostyle"" title=""Prostyle"">Prostyle</a>"|"
 <dd class=""glossary"">Free standing <a href=""https://en.wikipedia.org/wiki/Column"" title=""Column"">columns</a> that are widely spaced apart in a row.  The term is often used as an <a href=""https://en.wikipedia.org/wiki/Adjective"" title=""Adjective"">adjective</a> when referring to a <a href=""https://en.wikipedia.org/wiki/Portico"" title=""Portico"">portico</a> which projects from the main structure.</dd>
 "
-"<dt class=""glossary"" id=""pseudodipteral"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Pseudodipteral"" title=""Pseudodipteral"">Pseudodipteral</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Pseudodipteral"" title=""Pseudodipteral"">Pseudodipteral</a>"|"
 <dd class=""glossary"">Temple similar to a <a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#Dipteral"">dipteral</a> temple, in which the columns surrounding the naos have had walls built between them, so that they become engaged columns, as in the great temple at Agrigentum. In Roman temples, in order to increase the size of the celia, the columns on either side and at the rear became engaged columns, the portico only having isolated columns.<sup id=""cite_ref-56"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-56"">&#91;56&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""pteroma"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Pteroma</dfn></dt>"|"
+"Pteroma"|"
 <dd class=""glossary"">In Classical architecture, the enclosed space of a portico, <a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#Peristyle"">peristyle</a>, or stoa, generally behind a screen of columns.</dd>
 "
-"<dt class=""glossary"" id=""pycnostyle"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Pycnostyle</dfn></dt>"|"
+"Pycnostyle"|"
 <dd class=""glossary"">Term given by <a href=""https://en.wikipedia.org/wiki/Vitruvius"" title=""Vitruvius"">Vitruvius</a> to the intercolumniation between the columns of a temple, when this was equal to one and a half diameters.<sup id=""cite_ref-57"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-57"">&#91;57&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""quadriporticus"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Quadriporticus</dfn></dt>"|"
+"Quadriporticus"|"
 <dd class=""glossary"">Also known as a quadriportico – a four-sided <a href=""https://en.wikipedia.org/wiki/Portico"" title=""Portico"">portico</a>.  The closest modern parallel would be a <a href=""https://en.wikipedia.org/wiki/Colonnade"" title=""Colonnade"">colonnaded</a> <a href=""https://en.wikipedia.org/wiki/Quadrangle_(architecture)"" title=""Quadrangle (architecture)"">quadrangle</a>.</dd>
 "
-"<dt class=""glossary"" id=""quoin"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Quoin_(architecture)"" class=""mw-redirect"" title=""Quoin (architecture)"">Quoin</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Quoin_(architecture)"" class=""mw-redirect"" title=""Quoin (architecture)"">Quoin</a>"|"
 <dd class=""glossary"">The cornerstones of brick or stone walls.  Quoins are also common in some brickwork corners that are alternately recessed and expressed.</dd>
 "
-"<dt class=""glossary"" id=""rake"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Raking_cornice"" class=""mw-redirect"" title=""Raking cornice"">Rake</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Raking_cornice"" class=""mw-redirect"" title=""Raking cornice"">Rake</a>"|"
 <dd class=""glossary"">The diagonal outside facing edge of a gable, sometimes called a <i>raking cornice</i> or a <i>sloping cornice</i>.  Rake is equivalent to slope which is the ratio of the rise to the run of the roof.</dd>
 "
-"<dt class=""glossary"" id=""rear_vault"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Rear vault</dfn></dt>"|"
+"Rear vault"|"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/Vault_(architecture)"" title=""Vault (architecture)"">Vault</a> of the internal hood of a doorway or window to which a splay has been given on the reveal, sometimes the vaulting surface is terminated by a small rib known as the scoinson rib, and a further development is given by angle shafts carrying this rib, known as scoinson shafts.<sup id=""cite_ref-58"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-58"">&#91;58&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""return"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Return</dfn></dt>"|"
+"Return"|"
 <dd class=""glossary"">Receding edge of a flat face. On a flat signboard, for example, the return is the edge which makes up the board's depth.</dd>
 "
-"<dt class=""glossary"" id=""revolving_door"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Revolving door</dfn></dt>"|"
+"Revolving door"|"
 <dd class=""glossary"">An entrance door for excluding drafts from an interior of a building. A revolving door typically consists of three or four doors that hang on a center shaft and rotate around a vertical axis within a round enclosure.</dd>
 "
-"<dt class=""glossary"" id=""rib_vault"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Rib_vault"" title=""Rib vault"">Rib vault</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Rib_vault"" title=""Rib vault"">Rib vault</a>"|"
 <dd class=""glossary"">The intersection of two or three barrel vaults.</dd>
 "
-"<dt class=""glossary"" id=""ridge_board"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/w/index.php?title=Ridge_board&amp;action=edit&amp;redlink=1"" class=""new"" title=""Ridge board (page does not exist)"">Ridge board</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/w/index.php?title=Ridge_board&amp;action=edit&amp;redlink=1"" class=""new"" title=""Ridge board (page does not exist)"">Ridge board</a>"|"
 <dd class=""glossary"">A structural member that runs the length of the ridge (high point) on a sloped roof to which the upper ends of rafters are attached.</dd>
 "
-"<dt class=""glossary"" id=""roof_comb"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Roof_comb"" title=""Roof comb"">Roof comb</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Roof_comb"" title=""Roof comb"">Roof comb</a>"|"
 <dd class=""glossary"">The structure that tops a pyramid in monumental Mesoamerican architecture (also common as a decorative embellishment on the ridge of metal roofs of some domestic Gothic-style architecture in America in the 19th century).</dd>
 "
-"<dt class=""glossary"" id=""rotunda"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Rotunda_(architecture)"" title=""Rotunda (architecture)"">Rotunda</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Rotunda_(architecture)"" title=""Rotunda (architecture)"">Rotunda</a>"|"
 <dd class=""glossary"">A large and high circular hall or room in a building, usually but not always, surmounted by a dome.</dd>
 
 
 "
-"<dt class=""glossary"" id=""sash"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Sash_window"" title=""Sash window"">Sash</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Sash_window"" title=""Sash window"">Sash</a>"|"
 <dd class=""glossary"">The horizontal and vertical frame that encloses the glazing of a window.  A sash may be fixed or operable and may be of several different types depending on operation (i.e. casement, single or double hung, awning, hopper or sliding).</dd>
 "
-"<dt class=""glossary"" id=""screens_passage"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Great_hall"" title=""Great hall"">Screens passage</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Great_hall"" title=""Great hall"">Screens passage</a>"|"
 <dd class=""glossary"">The passage at one end of the <a href=""https://en.wikipedia.org/wiki/Great_hall"" title=""Great hall"">Great hall</a> of an English medieval house or castle, and separated from it by the spere.</dd>
 "
-"<dt class=""glossary"" id=""scroll"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Scroll_(art)"" title=""Scroll (art)"">Scroll</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Scroll_(art)"" title=""Scroll (art)"">Scroll</a>"|"
 <dd class=""glossary"">Ornamental element featuring a sequence of spiraled, circled or heart shaped motifs. There are, among others, flower scrolls, foliated scrolls, plants scrolls, vines scrolls.</dd>
 "
-"<dt class=""glossary"" id=""site-specific_architecture"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Site-specific_architecture"" title=""Site-specific architecture"">Site-specific architecture</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Site-specific_architecture"" title=""Site-specific architecture"">Site-specific architecture</a>"|"
 <dd class=""glossary"">Architecture which is of its time and of its place. It is designed to respond to both its physical context, and the metaphysical context within which it has been conceived and executed</dd>
 "
-"<dt class=""glossary"" id=""skeiling"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/w/index.php?title=Skeiling&amp;action=edit&amp;redlink=1"" class=""new"" title=""Skeiling (page does not exist)"">Skeiling</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/w/index.php?title=Skeiling&amp;action=edit&amp;redlink=1"" class=""new"" title=""Skeiling (page does not exist)"">Skeiling</a>"|"
 <dd class=""glossary"">A straight sloped part of a ceiling, such as on the underside of a pitched roof.</dd>
 <sup id=""cite_ref-59"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-59"">&#91;59&#93;</a></sup>
 "
-"<dt class=""glossary"" id=""sommer"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Sommer or Summer <span id=""sommer""></span><span id=""summer""></span></dfn></dt>"|"
+"Sommer or Summer <span id=""sommer""></span><span id=""summer""></span>"|"
 <dd class=""glossary"">Girder or main ""summer beam"" of a floor: if supported on two storey posts and open below, also called a ""bress"" or ""breast-summer"". Often found at the centerline of the house to support one end of a <a href=""https://en.wikipedia.org/wiki/Joist"" title=""Joist"">joist</a>, and to bear the weight of the structure above.<sup id=""cite_ref-60"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-60"">&#91;60&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""spandrel"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Spandrel"" title=""Spandrel"">Spandrel</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Spandrel"" title=""Spandrel"">Spandrel</a>"|"
 <dd class=""glossary"">The space between two arches or between an arch and a rectangular enclosure.&#160;&#160;In a building facade, the space between the top of the window in one story and the sill of the window in the story above.</dd>
 "
-"<dt class=""glossary"" id=""spere"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Spere</dfn></dt>"|"
+"Spere"|"
 <dd class=""glossary"">The fixed structure between the great hall and the screens passage in an English medieval timber house.</dd>
 "
-"<dt class=""glossary"" id=""spire"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Spire"" title=""Spire"">Spire</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Spire"" title=""Spire"">Spire</a>"|"
 <dd class=""glossary"">A tapering conical or pyramidal structure on the top of a building.</dd>
 "
-"<dt class=""glossary"" id=""springer"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Springer_(architecture)"" title=""Springer (architecture)"">Springer</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Springer_(architecture)"" title=""Springer (architecture)"">Springer</a>"|"
 <dd class=""glossary"">The lowest <a href=""https://en.wikipedia.org/wiki/Voussoir"" title=""Voussoir"">voussoir</a> on each side of an arch.</dd>
 "
-"<dt class=""glossary"" id=""squinch"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Squinch"" title=""Squinch"">Squinch</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Squinch"" title=""Squinch"">Squinch</a>"|"
 <dd class=""glossary"">A piece of construction used for filling in the upper angles of a square room so as to form a proper base to receive an octagonal or spherical <a href=""https://en.wikipedia.org/wiki/Dome"" title=""Dome"">dome</a>.</dd>
 "
-"<dt class=""glossary"" id=""squint"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Hagioscope"" title=""Hagioscope"">Squint</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Hagioscope"" title=""Hagioscope"">Squint</a>"|"
 <dd class=""glossary"">An opening, often arched, through an internal wall of a church providing an oblique view of the altar.</dd>
 "
-"<dt class=""glossary"" id=""stoop"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Stoop_(architecture)"" title=""Stoop (architecture)"">Stoop</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Stoop_(architecture)"" title=""Stoop (architecture)"">Stoop</a>"|"
 <dd class=""glossary"">A small <a href=""https://en.wikipedia.org/wiki/Staircase"" class=""mw-redirect"" title=""Staircase"">staircase</a> ending in a platform and leading to the entrance of an <a href=""https://en.wikipedia.org/wiki/Apartment_building"" class=""mw-redirect"" title=""Apartment building"">apartment building</a> or other building.</dd>
 "
-"<dt class=""glossary"" id=""sunburst"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Sunburst"" title=""Sunburst"">Sunburst</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Sunburst"" title=""Sunburst"">Sunburst</a>"|"
 <dd class=""glossary"">A design or figure commonly used in architectural ornaments and design patterns, including <a href=""https://en.wikipedia.org/wiki/Art_nouveau"" class=""mw-redirect"" title=""Art nouveau"">art nouveau</a>.</dd>
 "
-"<dt class=""glossary"" id=""systyle"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Systyle</dfn></dt>"|"
+"Systyle"|"
 <dd class=""glossary"">in the <a href=""https://en.wikipedia.org/wiki/Classical_order"" title=""Classical order"">classical orders</a>, this describes columns rather thickly set, with an <a href=""https://en.wikipedia.org/wiki/Intercolumniation"" title=""Intercolumniation"">intercolumniation</a> to which two diameters are assigned.<sup id=""cite_ref-61"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-61"">&#91;61&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""timber_framing"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Timber_framing"" title=""Timber framing"">Timber framing</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Timber_framing"" title=""Timber framing"">Timber framing</a>"|"
 <dd class=""glossary"">Is the method of creating structures using heavy timbers jointed by pegged <a href=""https://en.wikipedia.org/wiki/Mortise_and_tenon"" title=""Mortise and tenon"">Mortise and tenon</a> joints.</dd>
 "
-"<dt class=""glossary"" id=""trabeated_arch"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/w/index.php?title=Trabeated_arch&amp;action=edit&amp;redlink=1"" class=""new"" title=""Trabeated arch (page does not exist)"">Trabeated arch</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/w/index.php?title=Trabeated_arch&amp;action=edit&amp;redlink=1"" class=""new"" title=""Trabeated arch (page does not exist)"">Trabeated arch</a>"|"
 <dd class=""glossary"">An <a href=""https://en.wikipedia.org/wiki/Arch"" title=""Arch"">arch</a> pointed at the top formed by <a href=""https://en.wikipedia.org/wiki/Voussoir"" title=""Voussoir"">voussoirs</a> whose inside radius is greater than one-half the span of the arch.</dd>
 "
-"<dt class=""glossary"" id=""tracery"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Tracery"" title=""Tracery"">Tracery</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Tracery"" title=""Tracery"">Tracery</a>"|"
 <dd class=""glossary"">The stonework elements that support the glass in a Gothic window.</dd>
 "
-"<dt class=""glossary"" id=""transom"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Transom_(architectural)"" class=""mw-redirect"" title=""Transom (architectural)"">Transom (architectural)</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Transom_(architectural)"" class=""mw-redirect"" title=""Transom (architectural)"">Transom (architectural)</a>"|"
 <dd class=""glossary"">Window or element, fixed or operable,  above a door but within its vertical frame.</dd>
 "
-"<dt class=""glossary"" id=""truss"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Truss"" title=""Truss"">Truss</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Truss"" title=""Truss"">Truss</a>"|"
 <dd class=""glossary"">A structural component made of straight wood or metal members, usually in a triangular pattern, with ""pinned"" connections at the top and bottom chords and which is used to support structural loads, as those on a floor, roof or bridge.</dd>
 "
-"<dt class=""glossary"" id=""turret"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Turret"" title=""Turret"">Turret</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Turret"" title=""Turret"">Turret</a>"|"
 <dd class=""glossary"">A small tower that projects vertically from the wall of a building such as a medieval castle.</dd>
 "
-"<dt class=""glossary"" id=""tympanum"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Tympanum_(architecture)"" title=""Tympanum (architecture)"">Tympanum</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Tympanum_(architecture)"" title=""Tympanum (architecture)"">Tympanum</a>"|"
 <dd class=""glossary"">(<a href=""https://en.wikipedia.org/wiki/Greek_(language)"" class=""mw-redirect"" title=""Greek (language)"">Greek</a> τύμπανον, from τύπτειν, to strike) the triangular space enclosed between the horizontal cornice of the entablature and the sloping cornice of the pediment. Though sometimes left plain, it is often decorated.</dd>
 "
-"<dt class=""glossary"" id=""undercroft"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Undercroft"" title=""Undercroft"">Undercroft</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Undercroft"" title=""Undercroft"">Undercroft</a>"|"
 <dd class=""glossary"">Traditionally, a cellar or storage room.  In modern usage, a ground-level area that is relatively open to the sides, but covered by the building above.</dd>
 "
-"<dt class=""glossary"" id=""ventilation_shaft"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Ventilation_shaft"" title=""Ventilation shaft"">Ventilation shaft</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Ventilation_shaft"" title=""Ventilation shaft"">Ventilation shaft</a>"|"
 <dd class=""glossary"">A small, vertical space within a tall building which permits ventilation of the building.</dd>
 "
-"<dt class=""glossary"" id=""vierendeel_truss"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Truss#Vierendeel_Truss"" title=""Truss"">Vierendeel truss</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Truss#Vierendeel_Truss"" title=""Truss"">Vierendeel truss</a>"|"
 <dd class=""glossary"">A rectilinear truss usually fabricated of steel or concrete with horizontal top and bottom chords and vertical web members (no diagonals) in which the loads imposed on it are transferred to the supports through bending forces resisted in its connections.</dd>
 "
-"<dt class=""glossary"" id=""volute"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Volute"" title=""Volute"">Volute</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Volute"" title=""Volute"">Volute</a>"|"
 <dd class=""glossary"">A spiral, scroll-like ornament that forms the basis of the Ionic order.</dd>
 "
-"<dt class=""glossary"" id=""voussoir"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Voussoir"" title=""Voussoir"">Voussoir</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Voussoir"" title=""Voussoir"">Voussoir</a>"|"
 <dd class=""glossary"">A wedge-shaped or tapered stone between the springer and the keystone used to construct an arch.</dd>
 "
-"<dt class=""glossary"" id=""wing"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Wing</dfn></dt>"|"
+"Wing"|"
 <dd class=""glossary"">1.&#160;&#160;A lateral part or projection of a building or structure such as a <a href=""https://en.wikipedia.org/wiki/Wing_wall"" title=""Wing wall"">wing wall</a>.</dd>
 <dd class=""glossary"">2.&#160;&#160;A subordinate part of a building possibly not connected to the main building.<sup id=""cite_ref-62"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-62"">&#91;62&#93;</a></sup></dd>
 <dd class=""glossary"">3.&#160;&#160;The sides of a <a href=""https://en.wikipedia.org/wiki/Stage_(theatre)"" title=""Stage (theatre)"">stage (theatre)</a>.</dd>
 "
-"<dt class=""glossary"" id=""zaguan"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Zaguan"" title=""Zaguan"">Zaguan</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Zaguan"" title=""Zaguan"">Zaguan</a>"|"
 <dd class=""glossary"">Passageway of a central passage plan house, or the complex as a whole, in Territorial or Territorial Revival architecture in the American Southwest</dd>
 "
-"<dt class=""glossary"" id=""ziggurat"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Ziggurat"" title=""Ziggurat"">Ziggurat</a></dfn></dt>"|"
+"<a href=""https://en.wikipedia.org/wiki/Ziggurat"" title=""Ziggurat"">Ziggurat</a>"|"
 <dd class=""glossary"">A temple tower of the ancient Mesopotamian valley, having the form of a terraced pyramid of successively receding stories.</dd>
 "
